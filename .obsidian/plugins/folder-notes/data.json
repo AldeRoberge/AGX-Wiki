@@ -17,7 +17,7 @@
   "folderNoteName": "index",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
-  "newFolderNoteName": "{{folder_name}}",
+  "newFolderNoteName": "index",
   "storageLocation": "insideFolder",
   "syncDelete": false,
   "showRenameConfirmation": true,
