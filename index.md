@@ -1,6 +1,3 @@
 ---
-title: Example Title
-draft: false
-tags:
-  - example-tag
+title: Welcome to the AGX Wiki!
 ---

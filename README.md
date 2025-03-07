@@ -1,6 +1,13 @@
+---
+draft: true
+---
+
 # AGX-Wiki
  The Wiki for AGX.
 
+Welcome to the AGX-Wiki.
+
+You can learn about the Wiki [[Technical/Wiki/index|index]] here.
 
 
 ## Technical details
