@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folder stuff/Untitled.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "index"
             }
           }
         ],
@@ -205,12 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba195bce7e63f023",
+  "active": "d5fc54a1b5445adc",
   "lastOpenFiles": [
+    "Folder stuff/Cool beans!.md",
     "Folder stuff/create a link.md",
     "Folder stuff/Nested note.md",
     "Folder stuff",
-    "Folder stuff/Untitled.md",
     "Welcome.md",
     "README.md",
     "index.md"
