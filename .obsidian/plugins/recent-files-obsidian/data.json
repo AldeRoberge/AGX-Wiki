@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Sementic Versioning (SemVer)",
+      "path": "Technical/Notes/Sementic Versioning (SemVer).md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Notes/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Characters",
+      "path": "Characters.md"
+    },
+    {
+      "basename": "1.a Edit the wiki content",
+      "path": "Technical/Wiki/1.a Edit the wiki content.md"
+    },
+    {
       "basename": "1. Configuring the reverse proxy",
       "path": "Technical/Hosting/1. Configuring the reverse proxy.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "2. Publish the wiki to the website",
       "path": "Technical/Wiki/2. Publish the wiki to the website.md"
-    },
-    {
-      "basename": "1.a Edit the wiki content",
-      "path": "Technical/Wiki/1.a Edit the wiki content.md"
     }
   ],
   "omittedPaths": [],

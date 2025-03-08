@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHammer",
       "LiActivity",
       "LiBrain",
       "LiServer"
@@ -34,5 +35,6 @@
   },
   "Technical/Wiki": "LiBrain",
   "Technical/Status.md": "LiActivity",
-  "Technical/Hosting": "LiServer"
+  "Technical/Hosting": "LiServer",
+  "Technical": "LiHammer"
 }

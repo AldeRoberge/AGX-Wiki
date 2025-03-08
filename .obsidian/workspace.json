@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Wiki/1.a Edit the wiki content.md",
+                "file": "Technical/Notes/Sementic Versioning (SemVer).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.a Edit the wiki content"
+              "title": "Sementic Versioning (SemVer)"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,21 +199,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ff124ff32a293ff7",
+  "active": "60fedc69ec0c3b16",
   "lastOpenFiles": [
+    "HTML import/index.md",
+    "HTML import/AGXSemanticVersioning_SemVer_GuideforPrerelea.md",
+    "Technical/Notes/Sementic Versioning (SemVer).md",
+    "HTML import",
+    "Technical/Notes/index.md",
+    "index.md",
+    "Technical/Notes",
+    "Characters.md",
+    "Technical/Wiki/1.a Edit the wiki content.md",
+    "Technical/Hosting/1. Configuring the reverse proxy.md",
     "Technical/Hosting/index.md",
     "Technical/Wiki/index.md",
     "Technical/Status.md",
     "Technical/Wiki/2. Publish the wiki to the website.md",
-    "Technical/Wiki/1.a Edit the wiki content.md",
-    "index.md",
-    "Technical/Hosting/1. Configuring the reverse proxy.md",
     "Technical/Wiki/1.b Edit the wiki layout and style.md",
     "Technical/Hosting/0. Setting up the VPS.md",
-    "Important Characters.md",
     "README.md",
     "Untitled.md",
     "Technical/VPS/aawdawd.md",
@@ -227,16 +233,12 @@
     "Folder/Cool beans!.md",
     "Folder/index.md",
     "Folder 3333/Untitled inside.md",
-    "Folder 3333/awdawdadw.md",
     "Folder 3333",
     "Folder 333",
     "Technical/Hosting",
-    "Technical/Wiki/Wiki.md",
     "Technical/Wiki",
     "Technical",
     "Folder",
-    "Folder stuff/Cool beans!.md",
-    "Folder stuff/create a link.md",
     "Folder stuff"
   ]
 }
