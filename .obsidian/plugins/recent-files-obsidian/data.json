@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "Technical/Hosting/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Notes/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Wiki/index.md"
+    },
+    {
       "basename": "Origins",
       "path": "Technical/Origins.md"
     },
     {
       "basename": "Architecture",
       "path": "Technical/Architecture.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Hosting/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Untitled/index.md"
     },
     {
       "basename": "Linking your Discord account",
@@ -55,14 +59,6 @@
     {
       "basename": "Useful Docker or Podman commands",
       "path": "Technical/Notes/Useful Docker or Podman commands.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Notes/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Wiki/index.md"
     },
     {
       "basename": "Status",
