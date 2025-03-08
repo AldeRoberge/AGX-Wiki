@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiActivity",
       "LiBrain",
       "LiServer"
     ],
@@ -32,5 +33,6 @@
     "useInternalPlugins": false
   },
   "Technical/VPS": "LiServer",
-  "Technical/Wiki": "LiBrain"
+  "Technical/Wiki": "LiBrain",
+  "Technical/Status.md": "LiActivity"
 }
