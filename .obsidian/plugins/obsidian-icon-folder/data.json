@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMoreHorizontal",
+      "LiPencil",
       "LiSeparatorHorizontal",
       "LiEarth",
-      "LiHammer",
-      "LiActivity",
-      "LiBrain"
+      "LiHammer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,7 @@
   "Technical/Hosting": "LiServer",
   "Technical": "LiHammer",
   "Technical/Web Server.md": "LiSeparatorHorizontal",
-  "Technical/World Server.md": "LiEarth"
+  "Technical/World Server.md": "LiEarth",
+  "Technical/Notes": "LiPencil",
+  "Technical/Origins.md": "LiMoreHorizontal"
 }

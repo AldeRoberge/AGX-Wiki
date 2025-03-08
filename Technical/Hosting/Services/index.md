@@ -1,6 +1,6 @@
-### Stack 1 : https-portal
 
-We run [https-portal](https://github.com/SteveLTN/https-portal), a fully automated HTTP**S** server powered by Nginx and Let's Encrypt. It allows us to serve the wiki securely over SSL.
+
+We run [https-portal](https://github.com/SteveLTN/https-portal), a fully automated HTTP**S** server powered by Nginx and Let's Encrypt. It allows us to serve all of the **hosted services** securely over SSL.
 
 This reverse proxy points to the following hosted services :
 * [[Status Page (Hosted Service)]]

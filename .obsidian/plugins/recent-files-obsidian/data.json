@@ -1,32 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Origins",
+      "path": "Technical/Origins.md"
+    },
+    {
+      "basename": "Architecture",
+      "path": "Technical/Architecture.md"
+    },
+    {
       "basename": "index",
       "path": "Technical/Hosting/index.md"
     },
     {
       "basename": "index",
-      "path": "Technical/Hosting/Deployment Stages/index.md"
+      "path": "Untitled/index.md"
     },
     {
-      "basename": "Wiki (Hosted Service)",
-      "path": "Technical/Hosting/Hosted Services/Wiki (Hosted Service).md"
+      "basename": "Linking your Discord account",
+      "path": "Discord/Linking your Discord account.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Discord/Commands.md"
+    },
+    {
+      "basename": "Elina",
+      "path": "Discord/Elina.md"
+    },
+    {
+      "basename": "Events",
+      "path": "Discord/Events.md"
     },
     {
       "basename": "index",
-      "path": "Technical/Hosting/Hosted Services/Game Services (Hosted Services)/index.md"
-    },
-    {
-      "basename": "Status Page (Hosted Service)",
-      "path": "Technical/Hosting/Hosted Services/Status Page (Hosted Service).md"
-    },
-    {
-      "basename": "Building the Game Services Docker Image",
-      "path": "Technical/Hosting/Hosted Services/Game Services (Hosted Services)/Building the Game Services Docker Image.md"
+      "path": "Discord/index.md"
     },
     {
       "basename": "index",
-      "path": "Technical/Hosting/Hosted Services/index.md"
+      "path": "Player/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Death",
+      "path": "Player/Death.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Player/Character.md"
+    },
+    {
+      "basename": "Useful Docker or Podman commands",
+      "path": "Technical/Notes/Useful Docker or Podman commands.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Notes/index.md"
     },
     {
       "basename": "index",
@@ -35,6 +67,46 @@
     {
       "basename": "Status",
       "path": "Technical/Status.md"
+    },
+    {
+      "basename": "Status Page (Hosted Service)",
+      "path": "Technical/Hosting/Services/Status Page (Hosted Service).md"
+    },
+    {
+      "basename": "Wiki (Hosted Service)",
+      "path": "Technical/Hosting/Services/Wiki (Hosted Service).md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Stages/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Services/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Services/Game Services (Hosted Services)/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Deployment Stages/index.md"
+    },
+    {
+      "basename": "0 - Local",
+      "path": "Technical/Hosting/Deployment Stages/0 - Local.md"
+    },
+    {
+      "basename": "1 - Testing",
+      "path": "Technical/Hosting/Deployment Stages/1 - Testing.md"
+    },
+    {
+      "basename": "2 - Production",
+      "path": "Technical/Hosting/Deployment Stages/2 - Production.md"
+    },
+    {
+      "basename": "Building the Game Services Docker Image",
+      "path": "Technical/Hosting/Services/Game Services (Hosted Services)/Building the Game Services Docker Image.md"
     },
     {
       "basename": "World Server",
@@ -49,32 +121,8 @@
       "path": "Technical/Wiki/1.b Edit the wiki layout and style.md"
     },
     {
-      "basename": "2 - Production (release)",
-      "path": "Technical/Hosting/Deployment Stages/2 - Production (release).md"
-    },
-    {
-      "basename": "1 - Testing (staging)",
-      "path": "Technical/Hosting/Deployment Stages/1 - Testing (staging).md"
-    },
-    {
-      "basename": "0 - Local (development)",
-      "path": "Technical/Hosting/Deployment Stages/0 - Local (development).md"
-    },
-    {
-      "basename": "Hosting Environments",
-      "path": "Technical/Hosting/Deployment Stages/Hosting Environments.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Notes/index.md"
-    },
-    {
       "basename": "Sementic Versioning (SemVer)",
       "path": "Technical/Notes/Sementic Versioning (SemVer).md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Characters",
