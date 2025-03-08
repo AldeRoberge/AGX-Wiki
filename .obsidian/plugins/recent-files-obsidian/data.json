@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Sementic Versioning (SemVer)",
-      "path": "Technical/Notes/Sementic Versioning (SemVer).md"
+      "basename": "index",
+      "path": "Technical/Hosting/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Deployment Stages/index.md"
+    },
+    {
+      "basename": "Wiki (Hosted Service)",
+      "path": "Technical/Hosting/Hosted Services/Wiki (Hosted Service).md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Hosted Services/Game Services (Hosted Services)/index.md"
+    },
+    {
+      "basename": "Status Page (Hosted Service)",
+      "path": "Technical/Hosting/Hosted Services/Status Page (Hosted Service).md"
+    },
+    {
+      "basename": "Building the Game Services Docker Image",
+      "path": "Technical/Hosting/Hosted Services/Game Services (Hosted Services)/Building the Game Services Docker Image.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Hosted Services/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Wiki/index.md"
+    },
+    {
+      "basename": "Status",
+      "path": "Technical/Status.md"
+    },
+    {
+      "basename": "World Server",
+      "path": "Technical/World Server.md"
+    },
+    {
+      "basename": "Web Server",
+      "path": "Technical/Web Server.md"
+    },
+    {
+      "basename": "1.b Edit the wiki layout and style",
+      "path": "Technical/Wiki/1.b Edit the wiki layout and style.md"
+    },
+    {
+      "basename": "2 - Production (release)",
+      "path": "Technical/Hosting/Deployment Stages/2 - Production (release).md"
+    },
+    {
+      "basename": "1 - Testing (staging)",
+      "path": "Technical/Hosting/Deployment Stages/1 - Testing (staging).md"
+    },
+    {
+      "basename": "0 - Local (development)",
+      "path": "Technical/Hosting/Deployment Stages/0 - Local (development).md"
+    },
+    {
+      "basename": "Hosting Environments",
+      "path": "Technical/Hosting/Deployment Stages/Hosting Environments.md"
     },
     {
       "basename": "index",
       "path": "Technical/Notes/index.md"
+    },
+    {
+      "basename": "Sementic Versioning (SemVer)",
+      "path": "Technical/Notes/Sementic Versioning (SemVer).md"
     },
     {
       "basename": "index",
@@ -19,26 +83,6 @@
     {
       "basename": "1.a Edit the wiki content",
       "path": "Technical/Wiki/1.a Edit the wiki content.md"
-    },
-    {
-      "basename": "1. Configuring the reverse proxy",
-      "path": "Technical/Hosting/1. Configuring the reverse proxy.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Hosting/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Wiki/index.md"
-    },
-    {
-      "basename": "Status",
-      "path": "Technical/Status.md"
-    },
-    {
-      "basename": "2. Publish the wiki to the website",
-      "path": "Technical/Wiki/2. Publish the wiki to the website.md"
     }
   ],
   "omittedPaths": [],

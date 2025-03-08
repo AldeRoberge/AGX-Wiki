@@ -1,0 +1,4 @@
+- Public release environment.
+- Fully tested and stable version of the application.
+- Available to end users.
+- Updates are carefully reviewed before deployment.
