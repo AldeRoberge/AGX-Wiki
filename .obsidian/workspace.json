@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Wiki/2. Publish the wiki to the website.md",
+                "file": "Technical/Hosting/1. Configuring the reverse proxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Publish the wiki to the website"
+              "title": "1. Configuring the reverse proxy"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,6 +101,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a33b52838f481cf9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -189,24 +199,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ba4e59e4411f24f5",
+  "active": "ff124ff32a293ff7",
   "lastOpenFiles": [
-    "Technical/VPS/index.md",
-    "Technical/VPS/1. Configuring the reverse proxy.md",
-    "Technical/Wiki/2. Publish the wiki to the website.md",
-    "Technical/Wiki/1.b Edit the wiki layout and style.md",
-    "Technical/VPS/0. Setting up the VPS.md",
-    "Important Characters.md",
-    "index.md",
-    "README.md",
+    "Technical/Hosting/index.md",
     "Technical/Wiki/index.md",
     "Technical/Status.md",
+    "Technical/Wiki/2. Publish the wiki to the website.md",
+    "Technical/Wiki/1.a Edit the wiki content.md",
+    "index.md",
+    "Technical/Hosting/1. Configuring the reverse proxy.md",
+    "Technical/Wiki/1.b Edit the wiki layout and style.md",
+    "Technical/Hosting/0. Setting up the VPS.md",
+    "Important Characters.md",
+    "README.md",
     "Untitled.md",
     "Technical/VPS/aawdawd.md",
-    "Technical/Wiki/1.a Edit the wiki content.md",
     "Technical/Wiki/0. Required tools.md",
     "NOTE 4988.md",
     "Welcome!.md",
@@ -219,7 +230,7 @@
     "Folder 3333/awdawdadw.md",
     "Folder 3333",
     "Folder 333",
-    "Technical/VPS",
+    "Technical/Hosting",
     "Technical/Wiki/Wiki.md",
     "Technical/Wiki",
     "Technical",

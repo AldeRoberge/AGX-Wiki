@@ -1,0 +1,32 @@
+{
+  "recentFiles": [
+    {
+      "basename": "1. Configuring the reverse proxy",
+      "path": "Technical/Hosting/1. Configuring the reverse proxy.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Wiki/index.md"
+    },
+    {
+      "basename": "Status",
+      "path": "Technical/Status.md"
+    },
+    {
+      "basename": "2. Publish the wiki to the website",
+      "path": "Technical/Wiki/2. Publish the wiki to the website.md"
+    },
+    {
+      "basename": "1.a Edit the wiki content",
+      "path": "Technical/Wiki/1.a Edit the wiki content.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

@@ -32,7 +32,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Technical/VPS": "LiServer",
   "Technical/Wiki": "LiBrain",
-  "Technical/Status.md": "LiActivity"
+  "Technical/Status.md": "LiActivity",
+  "Technical/Hosting": "LiServer"
 }
