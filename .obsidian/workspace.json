@@ -11,14 +11,12 @@
             "id": "5884aa0b8e8d0683",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Technical/Hosting/Building.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250309111919.png"
               },
-              "icon": "lucide-file",
-              "title": "Building"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250309111919"
             }
           }
         ]
@@ -177,8 +175,10 @@
   },
   "active": "5884aa0b8e8d0683",
   "lastOpenFiles": [
-    "Technical/Hosting/Services/index.md",
+    "Discord/Elina.md",
+    "Pasted image 20250309111919.png",
     "Technical/Hosting/Building.md",
+    "Technical/Hosting/Services/index.md",
     "Technical/Hosting/Services/Game Services (Hosted Services)/index.md",
     "Technical/Hosting/Debugging.md",
     "Technical/Hosting/index.md",
@@ -189,7 +189,6 @@
     "Technical/Architecture.md",
     "Discord/Linking your Discord account.md",
     "Discord/Commands.md",
-    "Discord/Elina.md",
     "Discord/Events.md",
     "Discord/index.md",
     "Discord",
@@ -205,7 +204,6 @@
     "Technical/Hosting/Services/Wiki (Hosted Service).md",
     "Technical/Hosting/Stages/index.md",
     "Technical/Hosting/Deployment Stages/0 - Local.md",
-    "Technical/Hosting/Deployment Stages/1 - Testing.md",
     "Technical/Hosting/Services/Game Services (Hosted Services)",
     "Technical/Hosting/Untitled",
     "Technical/Hosting/Services",
