@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Building",
+      "path": "Technical/Hosting/Building.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Services/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Services/Game Services (Hosted Services)/index.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Technical/Hosting/Debugging.md"
+    },
+    {
       "basename": "index",
       "path": "Technical/Hosting/index.md"
     },
@@ -75,14 +91,6 @@
     {
       "basename": "index",
       "path": "Technical/Hosting/Stages/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Hosting/Services/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Hosting/Services/Game Services (Hosted Services)/index.md"
     },
     {
       "basename": "index",
