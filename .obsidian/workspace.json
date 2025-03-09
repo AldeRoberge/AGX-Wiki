@@ -11,12 +11,14 @@
             "id": "5884aa0b8e8d0683",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250309111919.png"
+                "file": "Discord/Elina.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250309111919"
+              "icon": "lucide-file",
+              "title": "Elina"
             }
           }
         ]
@@ -175,8 +177,13 @@
   },
   "active": "5884aa0b8e8d0683",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250309112339.png",
+    "attachments/Pasted image 20250309112419.png",
     "Discord/Elina.md",
     "Pasted image 20250309111919.png",
+    "attachments/index.md",
+    "attachments",
+    "Discord/Pasted image 20250309112309.png",
     "Technical/Hosting/Building.md",
     "Technical/Hosting/Services/index.md",
     "Technical/Hosting/Services/Game Services (Hosted Services)/index.md",
@@ -203,13 +210,11 @@
     "Technical/Hosting/Services/Status Page (Hosted Service).md",
     "Technical/Hosting/Services/Wiki (Hosted Service).md",
     "Technical/Hosting/Stages/index.md",
-    "Technical/Hosting/Deployment Stages/0 - Local.md",
     "Technical/Hosting/Services/Game Services (Hosted Services)",
     "Technical/Hosting/Untitled",
     "Technical/Hosting/Services",
     "Technical/Hosting/Deployment Stages",
     "HTML import",
-    "Technical/Notes",
-    "Folder 3333"
+    "Technical/Notes"
   ]
 }
