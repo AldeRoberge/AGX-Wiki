@@ -1,44 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Elina",
-      "path": "Discord/Elina.md"
-    },
-    {
-      "basename": "Pasted image 20250309112339",
-      "path": "attachments/Pasted image 20250309112339.png"
-    },
-    {
-      "basename": "Pasted image 20250309112419",
-      "path": "attachments/Pasted image 20250309112419.png"
-    },
-    {
       "basename": "Building",
       "path": "Technical/Hosting/Building.md"
     },
     {
-      "basename": "index",
-      "path": "Technical/Hosting/Services/index.md"
+      "basename": "Links",
+      "path": "Technical/Links.md"
     },
     {
       "basename": "index",
-      "path": "Technical/Hosting/Services/Game Services (Hosted Services)/index.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Technical/Hosting/Debugging.md"
+      "path": "Discord/index.md"
     },
     {
       "basename": "index",
-      "path": "Technical/Hosting/index.md"
+      "path": "index.md"
     },
     {
       "basename": "index",
-      "path": "Technical/Notes/index.md"
+      "path": "Technical/index.md"
+    },
+    {
+      "basename": "Knight",
+      "path": "Player/Classes/Knight.md"
     },
     {
       "basename": "index",
-      "path": "Technical/Wiki/index.md"
+      "path": "Player/Classes/index.md"
+    },
+    {
+      "basename": "Priest",
+      "path": "Player/Classes/Priest.md"
+    },
+    {
+      "basename": "Rogue",
+      "path": "Player/Classes/Rogue.md"
+    },
+    {
+      "basename": "Wizard",
+      "path": "Player/Classes/Wizard.md"
+    },
+    {
+      "basename": "Archer",
+      "path": "Player/Classes/Archer.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Player/Character.md"
+    },
+    {
+      "basename": "index",
+      "path": "Player/index.md"
+    },
+    {
+      "basename": "World Server",
+      "path": "Technical/World Server.md"
+    },
+    {
+      "basename": "Web Server",
+      "path": "Technical/Web Server.md"
+    },
+    {
+      "basename": "Status",
+      "path": "Technical/Status.md"
     },
     {
       "basename": "Origins",
@@ -49,44 +73,64 @@
       "path": "Technical/Architecture.md"
     },
     {
-      "basename": "Linking your Discord account",
-      "path": "Discord/Linking your Discord account.md"
+      "basename": "index",
+      "path": "Technical/Notes/index.md"
     },
     {
-      "basename": "Commands",
-      "path": "Discord/Commands.md"
+      "basename": "index",
+      "path": "Technical/Wiki/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Stages/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/Services/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/index.md"
+    },
+    {
+      "basename": "Linking your Discord account",
+      "path": "Discord/Linking your Discord account.md"
     },
     {
       "basename": "Events",
       "path": "Discord/Events.md"
     },
     {
-      "basename": "index",
-      "path": "Discord/index.md"
+      "basename": "Elina",
+      "path": "Discord/Elina.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Discord/Commands.md"
+    },
+    {
+      "basename": "Pasted image 20250309112339",
+      "path": "attachments/Pasted image 20250309112339.png"
+    },
+    {
+      "basename": "Pasted image 20250309112419",
+      "path": "attachments/Pasted image 20250309112419.png"
     },
     {
       "basename": "index",
-      "path": "Player/index.md"
+      "path": "Technical/Hosting/Services/Game Services (Hosted Services)/index.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "Debugging",
+      "path": "Technical/Hosting/Debugging.md"
     },
     {
       "basename": "Death",
       "path": "Player/Death.md"
     },
     {
-      "basename": "Character",
-      "path": "Player/Character.md"
-    },
-    {
       "basename": "Useful Docker or Podman commands",
       "path": "Technical/Notes/Useful Docker or Podman commands.md"
-    },
-    {
-      "basename": "Status",
-      "path": "Technical/Status.md"
     },
     {
       "basename": "Status Page (Hosted Service)",
@@ -95,10 +139,6 @@
     {
       "basename": "Wiki (Hosted Service)",
       "path": "Technical/Hosting/Services/Wiki (Hosted Service).md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Hosting/Stages/index.md"
     },
     {
       "basename": "index",
@@ -119,14 +159,6 @@
     {
       "basename": "Building the Game Services Docker Image",
       "path": "Technical/Hosting/Services/Game Services (Hosted Services)/Building the Game Services Docker Image.md"
-    },
-    {
-      "basename": "World Server",
-      "path": "Technical/World Server.md"
-    },
-    {
-      "basename": "Web Server",
-      "path": "Technical/Web Server.md"
     },
     {
       "basename": "1.b Edit the wiki layout and style",

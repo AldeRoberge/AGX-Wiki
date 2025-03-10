@@ -1,3 +1,8 @@
+---
+title: Player
+---
+
+
 A player, or player account, is the pawn controller by a human player of the game.
 
 

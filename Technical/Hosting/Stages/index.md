@@ -1,4 +1,9 @@
+---
+title: Stages
+---
+
 ## Stages
+
 
 
 We use a **three-stage** deployment environment to ensure stability and quality before public release:
