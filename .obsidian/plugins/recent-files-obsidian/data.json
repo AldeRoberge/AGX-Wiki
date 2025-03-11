@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows",
+      "path": "Dailies/2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows.md"
+    },
+    {
+      "basename": "2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux",
+      "path": "Dailies/2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux.md"
+    },
+    {
+      "basename": "index",
+      "path": "Dailies/index.md"
+    },
+    {
       "basename": "Building",
       "path": "Technical/Hosting/Building.md"
     },
