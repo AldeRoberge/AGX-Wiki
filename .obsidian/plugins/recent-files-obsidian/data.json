@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows",
-      "path": "Dailies/2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows.md"
+      "basename": "2025-03-14 - Our Users must THRIVE",
+      "path": "Dailies/2025-03-14 - Our Users must THRIVE.md"
+    },
+    {
+      "basename": "index",
+      "path": "Dailies/index.md"
+    },
+    {
+      "basename": "Strategic Plan",
+      "path": "Strategic Plan.md"
+    },
+    {
+      "basename": "index",
+      "path": "Discord/index.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Dailies/Untitled.md"
+    },
+    {
+      "basename": "Loading Screen Taunts",
+      "path": "Dailies/Loading Screen Taunts.md"
     },
     {
       "basename": "2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux",
       "path": "Dailies/2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux.md"
     },
     {
-      "basename": "index",
-      "path": "Dailies/index.md"
+      "basename": "2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows",
+      "path": "Dailies/2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows.md"
     },
     {
       "basename": "Building",
@@ -19,10 +39,6 @@
     {
       "basename": "Links",
       "path": "Technical/Links.md"
-    },
-    {
-      "basename": "index",
-      "path": "Discord/index.md"
     },
     {
       "basename": "index",
@@ -183,10 +199,6 @@
     {
       "basename": "Characters",
       "path": "Characters.md"
-    },
-    {
-      "basename": "1.a Edit the wiki content",
-      "path": "Technical/Wiki/1.a Edit the wiki content.md"
     }
   ],
   "omittedPaths": [],
