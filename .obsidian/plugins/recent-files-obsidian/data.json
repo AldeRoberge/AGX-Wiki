@@ -6,6 +6,10 @@
     },
     {
       "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "index",
       "path": "Dailies/index.md"
     },
     {
@@ -39,10 +43,6 @@
     {
       "basename": "Links",
       "path": "Technical/Links.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "index",
