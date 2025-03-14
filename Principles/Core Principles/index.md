@@ -1,0 +1,1 @@
+These core principles apply accross all spectrums of life, and are especially relevant to guiding fulfilling creative projects effortlessly. These principles are applicable to both the designer and the designed, the provider and requester.

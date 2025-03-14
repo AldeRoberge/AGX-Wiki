@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "943152b3601a7c6c",
+        "id": "1b37cfbd46748868",
         "type": "tabs",
         "children": [
           {
-            "id": "1682594c7791a5c0",
+            "id": "83055f5b8eb8293c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discord/index.md",
+                "file": "Dailies/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,35 +22,49 @@
             }
           },
           {
-            "id": "b46dd74bba4ffd8c",
+            "id": "addd0cdaf2b75263",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strategic Plan.md",
+                "file": "Dailies/2025-03-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strategic Plan"
+              "title": "2025-03-11"
             }
           },
           {
-            "id": "4a984fa80ac2158a",
+            "id": "c6eb2d120f05163a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-03-14 - Our Users must THRIVE.md",
+                "file": "Dailies/2025-03-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-14 - Our Users must THRIVE"
+              "title": "2025-03-10"
+            }
+          },
+          {
+            "id": "28b6e9d0976a372b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2025-02-28 - API Definition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-28 - API Definition"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,49 +218,53 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4a984fa80ac2158a",
+  "active": "28b6e9d0976a372b",
   "lastOpenFiles": [
-    "index.md",
-    "Dailies/2025-03-14 - Our Users must THRIVE.md",
-    "Dailies/index.md",
-    "attachments/Pasted image 20250314105225.png",
-    "Strategic Plan.md",
-    "Discord/index.md",
-    "Dailies/Untitled.md",
+    "Dailies/2025-02-26 - Ultimate Competitor.md",
+    "Dailies/2025-02-28 - API Definition.md",
+    "2025-03-14 - Psychological.md",
     "Dailies/Loading Screen Taunts.md",
+    "Dailies/2025-03-10.md",
+    "Dailies/2025-03-11.md",
+    "Dailies/index.md",
+    "Principles/Core Principles/Component.md",
+    "Technical/Wiki/index.md",
+    "Principles/Core Principles/Observation and measures.md",
+    "Principles/Core Principles/Modify, Edit, Update.md",
+    "Principles/Core Principles/Available vs. Unavailable.md",
+    "Principles/Core Principles/Concrete vs. Abstract.md",
+    "Principles/Core Principles/Comparisions/index.md",
+    "Principles/Core Principles/index.md",
+    "attachments/Pasted image 20250314142234.png",
+    "attachments/Pasted image 20250309113649.png",
+    "attachments/Pasted image 20250309112419.png",
     "Dailies/2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux.md",
     "Dailies/2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows.md",
-    "Dailies",
-    "Technical/Hosting/Building.md",
-    "Technical/Links.md",
-    "Technical/index.md",
-    "Player/Classes/Knight.md",
+    "Dailies/Untitled.md",
+    "Dailies/Strategic Plan.md",
     "Player/Classes/index.md",
-    "Player/Classes/Priest.md",
-    "Player/Classes/Rogue.md",
-    "Player/Classes/Wizard.md",
-    "Player/Classes/Archer.md",
     "Player/Character.md",
-    "Player/Classes",
-    "attachments/Pasted image 20250309113649.png",
-    "attachments/Pasted image 20250309113639.png",
-    "Player/index.md",
-    "Technical/World Server.md",
-    "Technical/Web Server.md",
-    "Technical/Status.md",
-    "Technical/Origins.md",
-    "Technical/Architecture.md",
-    "attachments/Pasted image 20250309112339.png",
-    "attachments/Pasted image 20250309112419.png",
-    "Pasted image 20250309111919.png",
-    "attachments",
-    "Discord/Pasted image 20250309112309.png",
-    "Discord",
-    "Player",
-    "Technical/Hosting/Services/Game Services (Hosted Services)",
-    "Technical/Hosting/Untitled",
-    "Technical/Hosting/Services",
-    "Technical/Hosting/Deployment Stages",
-    "HTML import"
+    "Player/Death.md",
+    "Characters.md",
+    "index.md",
+    "Principles/Core Core Principles/index.md",
+    "Principles/Before Everything/index.md",
+    "attachments/Pasted image 20250314152348.png",
+    "attachments/Pasted image 20250314152326.png",
+    "attachments/Pasted image 20250314152218.png",
+    "attachments/Pasted image 20250314152156.png",
+    "attachments/Pasted image 20250314152107.png",
+    "attachments/Pasted image 20250314152026.png",
+    "attachments/Pasted image 20250314152010.png",
+    "Principles/Core Core Principles/Comparisions/Untitled",
+    "Principles/Core Principles/Comparisions",
+    "Principles/Before Everything",
+    "Principles",
+    "Principles/Core Principles/Property",
+    "Principles/Core Principles/State",
+    "Principles/Core Core Principles",
+    "Server",
+    "Principles/Core Principles",
+    "Dailies"
   ]
 }

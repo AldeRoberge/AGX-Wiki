@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCross",
       "LiLink",
       "LiCircleUserRound",
       "LiCircleUser",
-      "LiDna",
-      "LiMoreHorizontal"
+      "LiDna"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,7 @@
   "Player/Classes/Priest.md": "LiCircleUserRound",
   "Player/Classes/Rogue.md": "LiCircleUserRound",
   "Player/Classes/Wizard.md": "LiCircleUserRound",
-  "Technical/Links.md": "LiLink"
+  "Technical/Links.md": "LiLink",
+  "Player/Character.md": "LiCircleUserRound",
+  "Player/Death.md": "LiCross"
 }

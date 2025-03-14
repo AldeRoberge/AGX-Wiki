@@ -3,10 +3,10 @@ title: Wiki
 ---
 > [!warning] Advanced users
 > 
-> This guide is meant for users curious about the technical aspects and the process of editing and publishing the wiki. 
+> This guide is designed for users interested in the technical details of editing and publishing the wiki. Although it serves as internal documentation, it is publicly available so that curious learners can explore the inner workings of multilayer game development—a challenging field, especially for solo developers.
 > To simply contribute changes to the wiki, we accept pull requests on the [AGX-Wiki](https://github.com/AldeRoberge/AGX-Wiki) GitHub.
 
-The [AGX-Wiki](https://wiki.aliengarden.com/) is created from markdown notes edited in [Obsidian](https://obsidian.md/).
+The [AGX-Wiki](https://wiki.aliengarden.com/) is created from [markdown notes](https://www.wikiwand.com/en/articles/Markdown) edited in [Obsidian](https://obsidian.md/).
 
 These notes are then converted into a static website using [Quartz](https://quartz.jzhao.xyz/), with a custom fork ([AGX-Wiki-Quartz](https://github.com/AldeRoberge/AGX-Wiki-Quartz)) handling fonts, icons, and styling.
 

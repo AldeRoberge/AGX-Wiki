@@ -1,32 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-14 - Our Users must THRIVE",
-      "path": "Dailies/2025-03-14 - Our Users must THRIVE.md"
+      "basename": "2025-02-28 - API Definition",
+      "path": "Dailies/2025-02-28 - API Definition.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "2025-02-26 - Ultimate Competitor",
+      "path": "Dailies/2025-02-26 - Ultimate Competitor.md"
+    },
+    {
+      "basename": "2025-03-14 - Psychological",
+      "path": "2025-03-14 - Psychological.md"
+    },
+    {
+      "basename": "Loading Screen Taunts",
+      "path": "Dailies/Loading Screen Taunts.md"
+    },
+    {
+      "basename": "2025-03-10",
+      "path": "Dailies/2025-03-10.md"
+    },
+    {
+      "basename": "2025-03-11",
+      "path": "Dailies/2025-03-11.md"
     },
     {
       "basename": "index",
       "path": "Dailies/index.md"
     },
     {
-      "basename": "Strategic Plan",
-      "path": "Strategic Plan.md"
+      "basename": "Component",
+      "path": "Principles/Core Principles/Component.md"
     },
     {
       "basename": "index",
-      "path": "Discord/index.md"
+      "path": "Technical/Wiki/index.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Dailies/Untitled.md"
+      "basename": "Observation and measures",
+      "path": "Principles/Core Principles/Observation and measures.md"
     },
     {
-      "basename": "Loading Screen Taunts",
-      "path": "Dailies/Loading Screen Taunts.md"
+      "basename": "Modify, Edit, Update",
+      "path": "Principles/Core Principles/Modify, Edit, Update.md"
+    },
+    {
+      "basename": "Available vs. Unavailable",
+      "path": "Principles/Core Principles/Available vs. Unavailable.md"
+    },
+    {
+      "basename": "Concrete vs. Abstract",
+      "path": "Principles/Core Principles/Concrete vs. Abstract.md"
+    },
+    {
+      "basename": "index",
+      "path": "Principles/Core Principles/Comparisions/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Principles/Core Principles/index.md"
+    },
+    {
+      "basename": "Pasted image 20250314142234",
+      "path": "attachments/Pasted image 20250314142234.png"
+    },
+    {
+      "basename": "Pasted image 20250309113649",
+      "path": "attachments/Pasted image 20250309113649.png"
+    },
+    {
+      "basename": "Pasted image 20250309112419",
+      "path": "attachments/Pasted image 20250309112419.png"
     },
     {
       "basename": "2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux",
@@ -37,168 +81,124 @@
       "path": "Dailies/2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows.md"
     },
     {
-      "basename": "Building",
-      "path": "Technical/Hosting/Building.md"
+      "basename": "Untitled",
+      "path": "Dailies/Untitled.md"
     },
     {
-      "basename": "Links",
-      "path": "Technical/Links.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/index.md"
-    },
-    {
-      "basename": "Knight",
-      "path": "Player/Classes/Knight.md"
+      "basename": "Strategic Plan",
+      "path": "Dailies/Strategic Plan.md"
     },
     {
       "basename": "index",
       "path": "Player/Classes/index.md"
     },
     {
-      "basename": "Priest",
-      "path": "Player/Classes/Priest.md"
-    },
-    {
-      "basename": "Rogue",
-      "path": "Player/Classes/Rogue.md"
-    },
-    {
-      "basename": "Wizard",
-      "path": "Player/Classes/Wizard.md"
-    },
-    {
-      "basename": "Archer",
-      "path": "Player/Classes/Archer.md"
-    },
-    {
       "basename": "Character",
       "path": "Player/Character.md"
-    },
-    {
-      "basename": "index",
-      "path": "Player/index.md"
-    },
-    {
-      "basename": "World Server",
-      "path": "Technical/World Server.md"
-    },
-    {
-      "basename": "Web Server",
-      "path": "Technical/Web Server.md"
-    },
-    {
-      "basename": "Status",
-      "path": "Technical/Status.md"
-    },
-    {
-      "basename": "Origins",
-      "path": "Technical/Origins.md"
-    },
-    {
-      "basename": "Architecture",
-      "path": "Technical/Architecture.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Notes/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Wiki/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Hosting/Stages/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Hosting/Services/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Hosting/index.md"
-    },
-    {
-      "basename": "Linking your Discord account",
-      "path": "Discord/Linking your Discord account.md"
-    },
-    {
-      "basename": "Events",
-      "path": "Discord/Events.md"
-    },
-    {
-      "basename": "Elina",
-      "path": "Discord/Elina.md"
-    },
-    {
-      "basename": "Commands",
-      "path": "Discord/Commands.md"
-    },
-    {
-      "basename": "Pasted image 20250309112339",
-      "path": "attachments/Pasted image 20250309112339.png"
-    },
-    {
-      "basename": "Pasted image 20250309112419",
-      "path": "attachments/Pasted image 20250309112419.png"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Hosting/Services/Game Services (Hosted Services)/index.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Technical/Hosting/Debugging.md"
     },
     {
       "basename": "Death",
       "path": "Player/Death.md"
     },
     {
-      "basename": "Useful Docker or Podman commands",
-      "path": "Technical/Notes/Useful Docker or Podman commands.md"
-    },
-    {
-      "basename": "Status Page (Hosted Service)",
-      "path": "Technical/Hosting/Services/Status Page (Hosted Service).md"
-    },
-    {
-      "basename": "Wiki (Hosted Service)",
-      "path": "Technical/Hosting/Services/Wiki (Hosted Service).md"
+      "basename": "Characters",
+      "path": "Characters.md"
     },
     {
       "basename": "index",
-      "path": "Technical/Hosting/Deployment Stages/index.md"
+      "path": "index.md"
     },
     {
-      "basename": "0 - Local",
-      "path": "Technical/Hosting/Deployment Stages/0 - Local.md"
+      "basename": "Object",
+      "path": "Principles/Core Principles/Object.md"
     },
     {
-      "basename": "1 - Testing",
-      "path": "Technical/Hosting/Deployment Stages/1 - Testing.md"
+      "basename": "Ports, Docks and Bays",
+      "path": "Principles/Core Principles/Ports, Docks and Bays.md"
     },
     {
-      "basename": "2 - Production",
-      "path": "Technical/Hosting/Deployment Stages/2 - Production.md"
+      "basename": "Proactive vs. Reactive",
+      "path": "Principles/Core Principles/Proactive vs. Reactive.md"
     },
     {
-      "basename": "Building the Game Services Docker Image",
-      "path": "Technical/Hosting/Services/Game Services (Hosted Services)/Building the Game Services Docker Image.md"
+      "basename": "Phase Sync vs Desync",
+      "path": "Principles/Core Principles/Phase Sync vs Desync.md"
     },
     {
-      "basename": "1.b Edit the wiki layout and style",
-      "path": "Technical/Wiki/1.b Edit the wiki layout and style.md"
+      "basename": "Passive vs. Active",
+      "path": "Principles/Core Principles/Passive vs. Active.md"
     },
     {
-      "basename": "Sementic Versioning (SemVer)",
-      "path": "Technical/Notes/Sementic Versioning (SemVer).md"
+      "basename": "Inside vs Outside",
+      "path": "Principles/Core Principles/Inside vs Outside.md"
     },
     {
-      "basename": "Characters",
-      "path": "Characters.md"
+      "basename": "Hit or Miss",
+      "path": "Principles/Core Principles/Hit or Miss.md"
+    },
+    {
+      "basename": "Actor",
+      "path": "Principles/Core Principles/Actor.md"
+    },
+    {
+      "basename": "Relationship",
+      "path": "Principles/Core Principles/Relationship.md"
+    },
+    {
+      "basename": "Emission",
+      "path": "Principles/Core Principles/Emission.md"
+    },
+    {
+      "basename": "Whole Point",
+      "path": "Principles/Core Principles/Whole Point.md"
+    },
+    {
+      "basename": "Exact Precision, Measures",
+      "path": "Principles/Core Principles/Exact Precision, Measures.md"
+    },
+    {
+      "basename": "Dimension and Space",
+      "path": "Principles/Core Principles/Dimension and Space.md"
+    },
+    {
+      "basename": "Equality and Meaning",
+      "path": "Principles/Core Principles/Equality and Meaning.md"
+    },
+    {
+      "basename": "Streams, Tunnels and Roads",
+      "path": "Principles/Core Principles/Streams, Tunnels and Roads.md"
+    },
+    {
+      "basename": "Archer",
+      "path": "Player/Classes/Archer.md"
+    },
+    {
+      "basename": "Equity",
+      "path": "Principles/Core Principles/Comparisions/Equity.md"
+    },
+    {
+      "basename": "Sameness",
+      "path": "Principles/Core Principles/Comparisions/Sameness.md"
+    },
+    {
+      "basename": "XAND",
+      "path": "Principles/Core Principles/Comparisions/XAND.md"
+    },
+    {
+      "basename": "Space, Terrain and Territory",
+      "path": "Principles/Core Principles/Space, Terrain and Territory.md"
+    },
+    {
+      "basename": "index",
+      "path": "Player/index.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Discord/Commands.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/index.md"
     }
   ],
   "omittedPaths": [],

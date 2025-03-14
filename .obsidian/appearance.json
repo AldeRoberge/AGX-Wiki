@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "centered-images",
+    "full-width-tables"
+  ]
+}

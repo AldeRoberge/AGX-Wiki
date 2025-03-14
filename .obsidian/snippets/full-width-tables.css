@@ -1,0 +1,7 @@
+table {
+    width: 100% !important;
+}
+th, td {
+    min-width: 100px; /* Adjust as needed */
+    text-align: left;
+}
