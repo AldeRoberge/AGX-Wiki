@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-17 - The Quest for the Perfect Project Management Tool",
+      "path": "Dailies/2025-03-17 - The Quest for the Perfect Project Management Tool.md"
+    },
+    {
+      "basename": "Origins",
+      "path": "Dailies/Origins.md"
+    },
+    {
+      "basename": "Loading Screen Taunts",
+      "path": "Dailies/Loading Screen Taunts.md"
+    },
+    {
+      "basename": "2025-03-14 - Psychological",
+      "path": "Dailies/2025-03-14 - Psychological.md"
+    },
+    {
+      "basename": "2025-03-11 - On the state of AI in programming",
+      "path": "Dailies/2025-03-11 - On the state of AI in programming.md"
+    },
+    {
+      "basename": "2023-11-20 - Real World Benefits",
+      "path": "Dailies/2023-11-20 - Real World Benefits.md"
+    },
+    {
+      "basename": "2025-03-10 - General Notes on Conflicts Resolution",
+      "path": "Dailies/2025-03-10 - General Notes on Conflicts Resolution.md"
+    },
+    {
+      "basename": "2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows",
+      "path": "Dailies/2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows.md"
+    },
+    {
+      "basename": "2025-02-26 - Ultimate Competitor",
+      "path": "Dailies/2025-02-26 - Ultimate Competitor.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Kanban 1",
       "path": "Kanban 1.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "index",
@@ -33,10 +69,6 @@
       "path": "Discord/Linking your Discord account.md"
     },
     {
-      "basename": "Origins",
-      "path": "Technical/Dailies/Origins.md"
-    },
-    {
       "basename": "Links",
       "path": "Technical/Links.md"
     },
@@ -46,11 +78,7 @@
     },
     {
       "basename": "index",
-      "path": "Technical/Dailies/Principles/index.md"
-    },
-    {
-      "basename": "2025-03-14 - Psychological",
-      "path": "Technical/Dailies/2025-03-14 - Psychological.md"
+      "path": "Dailies/Principles/index.md"
     },
     {
       "basename": "index",
@@ -62,7 +90,7 @@
     },
     {
       "basename": "index",
-      "path": "Technical/Dailies/index.md"
+      "path": "Dailies/index.md"
     },
     {
       "basename": "index",
@@ -78,7 +106,7 @@
     },
     {
       "basename": "index",
-      "path": "Technical/Dailies/Tools/index.md"
+      "path": "Dailies/Tools/index.md"
     },
     {
       "basename": "---Obituaries",
@@ -121,60 +149,36 @@
       "path": "Technical/API/-Characters.md"
     },
     {
-      "basename": "2025-03-10 - Avoiding Conflicts",
-      "path": "Technical/Dailies/2025-03-10 - Avoiding Conflicts.md"
-    },
-    {
       "basename": "Strategic Plan",
-      "path": "Technical/Dailies/Strategic Plan.md"
+      "path": "Dailies/Strategic Plan.md"
     },
     {
       "basename": "Workflow",
-      "path": "Technical/Dailies/Workflow.md"
-    },
-    {
-      "basename": "Loading Screen Taunts",
-      "path": "Technical/Dailies/Loading Screen Taunts.md"
-    },
-    {
-      "basename": "2023-11-20 - Real World Benefits",
-      "path": "Technical/Dailies/2023-11-20 - Real World Benefits.md"
+      "path": "Dailies/Workflow.md"
     },
     {
       "basename": "2025-03-10 - GitHub Actions Runner Issues",
-      "path": "Technical/Dailies/2025-03-10 - GitHub Actions Runner Issues.md"
+      "path": "Dailies/2025-03-10 - GitHub Actions Runner Issues.md"
     },
     {
       "basename": "2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux",
-      "path": "Technical/Dailies/2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux.md"
-    },
-    {
-      "basename": "2025-03-11 - On the state of AI in programming",
-      "path": "Technical/Dailies/2025-03-11 - On the state of AI in programming.md"
+      "path": "Dailies/2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux.md"
     },
     {
       "basename": "2025-03-10 - The 6 laws of Time Management",
-      "path": "Technical/Dailies/2025-03-10 - The 6 laws of Time Management.md"
+      "path": "Dailies/2025-03-10 - The 6 laws of Time Management.md"
     },
     {
       "basename": "Equity",
-      "path": "Technical/Dailies/Principles/Core Principles/Comparisions/Equity.md"
+      "path": "Dailies/Principles/Core Principles/Comparisions/Equity.md"
     },
     {
       "basename": "index",
-      "path": "Technical/Dailies/Principles/Core Principles/Comparisions/index.md"
+      "path": "Dailies/Principles/Core Principles/Comparisions/index.md"
     },
     {
       "basename": "2025-02-28 - API Definition",
       "path": "Dailies/2025-02-28 - API Definition.md"
-    },
-    {
-      "basename": "2025-02-26 - Ultimate Competitor",
-      "path": "Dailies/2025-02-26 - Ultimate Competitor.md"
-    },
-    {
-      "basename": "Loading Screen Taunts",
-      "path": "Dailies/Loading Screen Taunts.md"
     },
     {
       "basename": "2025-03-10",
@@ -190,15 +194,7 @@
     },
     {
       "basename": "Component",
-      "path": "Technical/Dailies/Principles/Core Principles/Component.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/Wiki/index.md"
-    },
-    {
-      "basename": "Observation and measures",
-      "path": "Technical/Dailies/Principles/Core Principles/Observation and measures.md"
+      "path": "Dailies/Principles/Core Principles/Component.md"
     }
   ],
   "omittedPaths": [],

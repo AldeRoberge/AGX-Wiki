@@ -1,6 +1,5 @@
 
 **Resolving a Conflict**
-
 1. **Identify and understand the problem**
     - Listen attentively, be open-minded, and show empathy
     - Create an environment that encourages freedom of expression (communication with no consequences)

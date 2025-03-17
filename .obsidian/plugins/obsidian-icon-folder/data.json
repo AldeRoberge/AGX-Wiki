@@ -50,7 +50,7 @@
   "Technical/Links.md": "LiLink",
   "Player/Character.md": "LiCircleUserRound",
   "Player/Death.md": "LiCross",
-  "Technical/Dailies": "LiBook",
   "Technical/API": "LiHammer",
-  "Technical/Dailies/Origins.md": "LiMoreHorizontal"
+  "Dailies": "LiBook",
+  "Dailies/Origins.md": "LiMoreHorizontal"
 }
