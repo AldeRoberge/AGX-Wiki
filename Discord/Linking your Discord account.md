@@ -1,6 +1,3 @@
-
-### Why should I link my Discord account?
-
 Linking your Discord account to your [[Player/index|Alien Garden player account]] has many benefits. In game, you receive a code that you can paste in the Discord server. It allows you to link your account to the game. Once linked, you receive a special member role that gives you access to participate in the chests, gifts and coin flip [[Events]]. 
 
 You will have access to server commands : 

@@ -1,0 +1,1 @@
+friends (pending, accepted, rejected)  

@@ -8,63 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83055f5b8eb8293c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "addd0cdaf2b75263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2025-03-11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-11"
-            }
-          },
-          {
-            "id": "c6eb2d120f05163a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2025-03-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-10"
-            }
-          },
-          {
             "id": "28b6e9d0976a372b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Dailies/2025-02-28 - API Definition.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-02-28 - API Definition"
+              "icon": "lucide-trello",
+              "title": "Kanban 1"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 381.5
   },
   "right": {
     "id": "a75b45415a95c68e",
@@ -215,40 +177,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "28b6e9d0976a372b",
   "lastOpenFiles": [
-    "Dailies/2025-02-26 - Ultimate Competitor.md",
-    "Dailies/2025-02-28 - API Definition.md",
-    "2025-03-14 - Psychological.md",
-    "Dailies/Loading Screen Taunts.md",
-    "Dailies/2025-03-10.md",
-    "Dailies/2025-03-11.md",
-    "Dailies/index.md",
-    "Principles/Core Principles/Component.md",
-    "Technical/Wiki/index.md",
-    "Principles/Core Principles/Observation and measures.md",
-    "Principles/Core Principles/Modify, Edit, Update.md",
-    "Principles/Core Principles/Available vs. Unavailable.md",
-    "Principles/Core Principles/Concrete vs. Abstract.md",
-    "Principles/Core Principles/Comparisions/index.md",
-    "Principles/Core Principles/index.md",
+    "README.md",
+    "Kanban 1.md",
+    "index.md",
+    "Discord/index.md",
+    "Discord/Commands.md",
+    "Discord/Elina.md",
+    "Discord/Events.md",
+    "Discord/Linking your Discord account.md",
+    "Technical/Dailies/Origins.md",
+    "Technical/Untitled.md",
+    "Technical/Links.md",
+    "Technical/Architecture.md",
+    "Technical/Dailies/Principles/index.md",
+    "Technical/Dailies/2025-03-14 - Psychological.md",
+    "What's New/index.md",
+    "Technical/Hosting/index.md",
+    "Technical/Dailies/index.md",
+    "Technical/API/index.md",
+    "Technical/index.md",
+    "Technical/Status.md",
+    "Technical/Dailies/Tools/index.md",
+    "Technical/API/---Obituaries.md",
+    "Technical/API/---Leaderboard.md",
+    "Technical/API/---Market.md",
+    "Technical/API/---Shop.md",
+    "Technical/API/-Servers.md",
+    "Technical/API/Graveyard/Untitled",
+    "Technical/API/Graveyard",
+    "Technical/API",
     "attachments/Pasted image 20250314142234.png",
     "attachments/Pasted image 20250309113649.png",
     "attachments/Pasted image 20250309112419.png",
-    "Dailies/2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux.md",
-    "Dailies/2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows.md",
-    "Dailies/Untitled.md",
-    "Dailies/Strategic Plan.md",
-    "Player/Classes/index.md",
-    "Player/Character.md",
-    "Player/Death.md",
-    "Characters.md",
-    "index.md",
-    "Principles/Core Core Principles/index.md",
-    "Principles/Before Everything/index.md",
     "attachments/Pasted image 20250314152348.png",
     "attachments/Pasted image 20250314152326.png",
     "attachments/Pasted image 20250314152218.png",
@@ -257,14 +224,11 @@
     "attachments/Pasted image 20250314152026.png",
     "attachments/Pasted image 20250314152010.png",
     "Principles/Core Core Principles/Comparisions/Untitled",
-    "Principles/Core Principles/Comparisions",
+    "Technical/Dailies/Principles/Core Principles/Comparisions",
     "Principles/Before Everything",
-    "Principles",
-    "Principles/Core Principles/Property",
-    "Principles/Core Principles/State",
-    "Principles/Core Core Principles",
-    "Server",
-    "Principles/Core Principles",
-    "Dailies"
+    "Technical/Dailies/Principles",
+    "Technical/Dailies/Principles/Core Principles/Property",
+    "Technical/Dailies/Principles/Core Principles/State",
+    "Principles/Core Core Principles"
   ]
 }

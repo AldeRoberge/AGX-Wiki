@@ -1,16 +1,176 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban 1",
+      "path": "Kanban 1.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Discord/index.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Discord/Commands.md"
+    },
+    {
+      "basename": "Elina",
+      "path": "Discord/Elina.md"
+    },
+    {
+      "basename": "Events",
+      "path": "Discord/Events.md"
+    },
+    {
+      "basename": "Linking your Discord account",
+      "path": "Discord/Linking your Discord account.md"
+    },
+    {
+      "basename": "Origins",
+      "path": "Technical/Dailies/Origins.md"
+    },
+    {
+      "basename": "Links",
+      "path": "Technical/Links.md"
+    },
+    {
+      "basename": "Architecture",
+      "path": "Technical/Architecture.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Dailies/Principles/index.md"
+    },
+    {
+      "basename": "2025-03-14 - Psychological",
+      "path": "Technical/Dailies/2025-03-14 - Psychological.md"
+    },
+    {
+      "basename": "index",
+      "path": "What's New/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Hosting/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Dailies/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/API/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/index.md"
+    },
+    {
+      "basename": "Status",
+      "path": "Technical/Status.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Dailies/Tools/index.md"
+    },
+    {
+      "basename": "---Obituaries",
+      "path": "Technical/API/---Obituaries.md"
+    },
+    {
+      "basename": "---Leaderboard",
+      "path": "Technical/API/---Leaderboard.md"
+    },
+    {
+      "basename": "---Market",
+      "path": "Technical/API/---Market.md"
+    },
+    {
+      "basename": "---Shop",
+      "path": "Technical/API/---Shop.md"
+    },
+    {
+      "basename": "-Servers",
+      "path": "Technical/API/-Servers.md"
+    },
+    {
+      "basename": "-Quests",
+      "path": "Technical/API/-Quests.md"
+    },
+    {
+      "basename": "-Notifications",
+      "path": "Technical/API/-Notifications.md"
+    },
+    {
+      "basename": "-Graveyard",
+      "path": "Technical/API/-Graveyard.md"
+    },
+    {
+      "basename": "-Friends",
+      "path": "Technical/API/-Friends.md"
+    },
+    {
+      "basename": "-Characters",
+      "path": "Technical/API/-Characters.md"
+    },
+    {
+      "basename": "2025-03-10 - Avoiding Conflicts",
+      "path": "Technical/Dailies/2025-03-10 - Avoiding Conflicts.md"
+    },
+    {
+      "basename": "Strategic Plan",
+      "path": "Technical/Dailies/Strategic Plan.md"
+    },
+    {
+      "basename": "Workflow",
+      "path": "Technical/Dailies/Workflow.md"
+    },
+    {
+      "basename": "Loading Screen Taunts",
+      "path": "Technical/Dailies/Loading Screen Taunts.md"
+    },
+    {
+      "basename": "2023-11-20 - Real World Benefits",
+      "path": "Technical/Dailies/2023-11-20 - Real World Benefits.md"
+    },
+    {
+      "basename": "2025-03-10 - GitHub Actions Runner Issues",
+      "path": "Technical/Dailies/2025-03-10 - GitHub Actions Runner Issues.md"
+    },
+    {
+      "basename": "2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux",
+      "path": "Technical/Dailies/2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux.md"
+    },
+    {
+      "basename": "2025-03-11 - On the state of AI in programming",
+      "path": "Technical/Dailies/2025-03-11 - On the state of AI in programming.md"
+    },
+    {
+      "basename": "2025-03-10 - The 6 laws of Time Management",
+      "path": "Technical/Dailies/2025-03-10 - The 6 laws of Time Management.md"
+    },
+    {
+      "basename": "Equity",
+      "path": "Technical/Dailies/Principles/Core Principles/Comparisions/Equity.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/Dailies/Principles/Core Principles/Comparisions/index.md"
+    },
+    {
       "basename": "2025-02-28 - API Definition",
       "path": "Dailies/2025-02-28 - API Definition.md"
     },
     {
       "basename": "2025-02-26 - Ultimate Competitor",
       "path": "Dailies/2025-02-26 - Ultimate Competitor.md"
-    },
-    {
-      "basename": "2025-03-14 - Psychological",
-      "path": "2025-03-14 - Psychological.md"
     },
     {
       "basename": "Loading Screen Taunts",
@@ -30,7 +190,7 @@
     },
     {
       "basename": "Component",
-      "path": "Principles/Core Principles/Component.md"
+      "path": "Technical/Dailies/Principles/Core Principles/Component.md"
     },
     {
       "basename": "index",
@@ -38,167 +198,7 @@
     },
     {
       "basename": "Observation and measures",
-      "path": "Principles/Core Principles/Observation and measures.md"
-    },
-    {
-      "basename": "Modify, Edit, Update",
-      "path": "Principles/Core Principles/Modify, Edit, Update.md"
-    },
-    {
-      "basename": "Available vs. Unavailable",
-      "path": "Principles/Core Principles/Available vs. Unavailable.md"
-    },
-    {
-      "basename": "Concrete vs. Abstract",
-      "path": "Principles/Core Principles/Concrete vs. Abstract.md"
-    },
-    {
-      "basename": "index",
-      "path": "Principles/Core Principles/Comparisions/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "Principles/Core Principles/index.md"
-    },
-    {
-      "basename": "Pasted image 20250314142234",
-      "path": "attachments/Pasted image 20250314142234.png"
-    },
-    {
-      "basename": "Pasted image 20250309113649",
-      "path": "attachments/Pasted image 20250309113649.png"
-    },
-    {
-      "basename": "Pasted image 20250309112419",
-      "path": "attachments/Pasted image 20250309112419.png"
-    },
-    {
-      "basename": "2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux",
-      "path": "Dailies/2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux.md"
-    },
-    {
-      "basename": "2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows",
-      "path": "Dailies/2025-03-10 - Changing the GitHub Actions Runner Service Account on Windows.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Dailies/Untitled.md"
-    },
-    {
-      "basename": "Strategic Plan",
-      "path": "Dailies/Strategic Plan.md"
-    },
-    {
-      "basename": "index",
-      "path": "Player/Classes/index.md"
-    },
-    {
-      "basename": "Character",
-      "path": "Player/Character.md"
-    },
-    {
-      "basename": "Death",
-      "path": "Player/Death.md"
-    },
-    {
-      "basename": "Characters",
-      "path": "Characters.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Object",
-      "path": "Principles/Core Principles/Object.md"
-    },
-    {
-      "basename": "Ports, Docks and Bays",
-      "path": "Principles/Core Principles/Ports, Docks and Bays.md"
-    },
-    {
-      "basename": "Proactive vs. Reactive",
-      "path": "Principles/Core Principles/Proactive vs. Reactive.md"
-    },
-    {
-      "basename": "Phase Sync vs Desync",
-      "path": "Principles/Core Principles/Phase Sync vs Desync.md"
-    },
-    {
-      "basename": "Passive vs. Active",
-      "path": "Principles/Core Principles/Passive vs. Active.md"
-    },
-    {
-      "basename": "Inside vs Outside",
-      "path": "Principles/Core Principles/Inside vs Outside.md"
-    },
-    {
-      "basename": "Hit or Miss",
-      "path": "Principles/Core Principles/Hit or Miss.md"
-    },
-    {
-      "basename": "Actor",
-      "path": "Principles/Core Principles/Actor.md"
-    },
-    {
-      "basename": "Relationship",
-      "path": "Principles/Core Principles/Relationship.md"
-    },
-    {
-      "basename": "Emission",
-      "path": "Principles/Core Principles/Emission.md"
-    },
-    {
-      "basename": "Whole Point",
-      "path": "Principles/Core Principles/Whole Point.md"
-    },
-    {
-      "basename": "Exact Precision, Measures",
-      "path": "Principles/Core Principles/Exact Precision, Measures.md"
-    },
-    {
-      "basename": "Dimension and Space",
-      "path": "Principles/Core Principles/Dimension and Space.md"
-    },
-    {
-      "basename": "Equality and Meaning",
-      "path": "Principles/Core Principles/Equality and Meaning.md"
-    },
-    {
-      "basename": "Streams, Tunnels and Roads",
-      "path": "Principles/Core Principles/Streams, Tunnels and Roads.md"
-    },
-    {
-      "basename": "Archer",
-      "path": "Player/Classes/Archer.md"
-    },
-    {
-      "basename": "Equity",
-      "path": "Principles/Core Principles/Comparisions/Equity.md"
-    },
-    {
-      "basename": "Sameness",
-      "path": "Principles/Core Principles/Comparisions/Sameness.md"
-    },
-    {
-      "basename": "XAND",
-      "path": "Principles/Core Principles/Comparisions/XAND.md"
-    },
-    {
-      "basename": "Space, Terrain and Territory",
-      "path": "Principles/Core Principles/Space, Terrain and Territory.md"
-    },
-    {
-      "basename": "index",
-      "path": "Player/index.md"
-    },
-    {
-      "basename": "Commands",
-      "path": "Discord/Commands.md"
-    },
-    {
-      "basename": "index",
-      "path": "Technical/index.md"
+      "path": "Technical/Dailies/Principles/Core Principles/Observation and measures.md"
     }
   ],
   "omittedPaths": [],

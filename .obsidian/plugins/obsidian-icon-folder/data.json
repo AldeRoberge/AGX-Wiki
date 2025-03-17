@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHammer",
+      "LiBook",
       "LiCross",
       "LiLink",
-      "LiCircleUserRound",
-      "LiCircleUser",
-      "LiDna"
+      "LiCircleUserRound"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,7 +41,6 @@
   "Technical/Web Server.md": "LiSeparatorHorizontal",
   "Technical/World Server.md": "LiEarth",
   "Technical/Notes": "LiPencil",
-  "Technical/Origins.md": "LiMoreHorizontal",
   "Player/Classes": "LiDna",
   "Player/Classes/Archer.md": "LiCircleUserRound",
   "Player/Classes/Knight.md": "LiCircleUserRound",
@@ -50,5 +49,8 @@
   "Player/Classes/Wizard.md": "LiCircleUserRound",
   "Technical/Links.md": "LiLink",
   "Player/Character.md": "LiCircleUserRound",
-  "Player/Death.md": "LiCross"
+  "Player/Death.md": "LiCross",
+  "Technical/Dailies": "LiBook",
+  "Technical/API": "LiHammer",
+  "Technical/Dailies/Origins.md": "LiMoreHorizontal"
 }
