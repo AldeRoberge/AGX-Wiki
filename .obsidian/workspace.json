@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "26f7f7db49fbc41a",
+        "id": "06e5f9012e69b07a",
         "type": "tabs",
         "children": [
           {
-            "id": "1cfdc065b802870f",
+            "id": "8c5fadca7a6cd3bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Video Ideas/AI Commit Message.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AI Commit Message"
+              "title": "New tab"
             }
           }
         ]
@@ -188,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cfdc065b802870f",
+  "active": "7e56d133e10ad355",
   "lastOpenFiles": [
     "index.md",
     "Video Ideas/AI Commit Message.md",
