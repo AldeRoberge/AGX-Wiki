@@ -1,0 +1,1 @@
+Lists, stacks and collections are groupings of multiple systems and/or components. 

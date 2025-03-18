@@ -1,0 +1,1 @@
+We derive knowledge by equating various 
