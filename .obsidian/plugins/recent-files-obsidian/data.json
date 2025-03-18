@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-18 - Where do tasks come from",
+      "path": "Dailies/2025-03-18 - Where do tasks come from.md"
+    },
+    {
+      "basename": "2025-03-17 - How to name Git commits",
+      "path": "Dailies/2025-03-17 - How to name Git commits.md"
+    },
+    {
       "basename": "2025-03-17 - What is a Task",
       "path": "Dailies/2025-03-17 - What is a Task.md"
+    },
+    {
+      "basename": "2025-03-17 - The Quest for the Perfect Project Management Tool",
+      "path": "Dailies/2025-03-17 - The Quest for the Perfect Project Management Tool.md"
     },
     {
       "basename": "2025-03-18 - Tasks Labels",
@@ -13,12 +25,12 @@
       "path": "Kanban 1.md"
     },
     {
-      "basename": "Loading Screen Taunts",
-      "path": "Dailies/Loading Screen Taunts.md"
+      "basename": "index",
+      "path": "Dailies/Inspirations/index.md"
     },
     {
-      "basename": "2025-03-17 - The Quest for the Perfect Project Management Tool",
-      "path": "Dailies/2025-03-17 - The Quest for the Perfect Project Management Tool.md"
+      "basename": "Loading Screen Taunts",
+      "path": "Dailies/Loading Screen Taunts.md"
     },
     {
       "basename": "2025-03-17 - Testing Huly, Fibery and Linear",
@@ -31,10 +43,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "2025-03-17 - How to name Git commits",
-      "path": "Dailies/2025-03-17 - How to name Git commits.md"
     },
     {
       "basename": "Origins",
@@ -191,14 +199,6 @@
     {
       "basename": "index",
       "path": "Dailies/Principles/Core Principles/Comparisions/index.md"
-    },
-    {
-      "basename": "2025-02-28 - API Definition",
-      "path": "Dailies/2025-02-28 - API Definition.md"
-    },
-    {
-      "basename": "2025-03-10",
-      "path": "Dailies/2025-03-10.md"
     }
   ],
   "omittedPaths": [],
