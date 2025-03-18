@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-17 - What I need from a Task Management Software",
-      "path": "Dailies/2025-03-17 - What I need from a Task Management Software.md"
+      "basename": "2025-03-17 - What is a Task",
+      "path": "Dailies/2025-03-17 - What is a Task.md"
+    },
+    {
+      "basename": "2025-03-18 - Tasks Labels",
+      "path": "Dailies/2025-03-18 - Tasks Labels.md"
+    },
+    {
+      "basename": "Kanban 1",
+      "path": "Kanban 1.md"
+    },
+    {
+      "basename": "Loading Screen Taunts",
+      "path": "Dailies/Loading Screen Taunts.md"
     },
     {
       "basename": "2025-03-17 - The Quest for the Perfect Project Management Tool",
@@ -17,16 +29,8 @@
       "path": "index.md"
     },
     {
-      "basename": "Kanban 1",
-      "path": "Kanban 1.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Loading Screen Taunts",
-      "path": "Dailies/Loading Screen Taunts.md"
     },
     {
       "basename": "2025-03-17 - How to name Git commits",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-03-10",
       "path": "Dailies/2025-03-10.md"
-    },
-    {
-      "basename": "2025-03-11",
-      "path": "Dailies/2025-03-11.md"
     }
   ],
   "omittedPaths": [],
