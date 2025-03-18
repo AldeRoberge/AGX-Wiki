@@ -2,15 +2,11 @@
   "recentFiles": [
     {
       "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "AI Commit Message",
-      "path": "Video Ideas/AI Commit Message.md"
+      "path": "Video Ideas/index.md"
     },
     {
       "basename": "index",
-      "path": "Video Ideas/index.md"
+      "path": "index.md"
     },
     {
       "basename": "index",
@@ -35,10 +31,6 @@
     {
       "basename": "2025-03-18 - Tasks Labels",
       "path": "Dailies/2025-03-18 - Tasks Labels.md"
-    },
-    {
-      "basename": "Kanban 1",
-      "path": "Kanban 1.md"
     },
     {
       "basename": "index",
@@ -195,10 +187,6 @@
     {
       "basename": "2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux",
       "path": "Dailies/2025-03-10 - How to Specify a GitHub Self-Hosted Runner to use Linux.md"
-    },
-    {
-      "basename": "2025-03-10 - The 6 laws of Time Management",
-      "path": "Dailies/2025-03-10 - The 6 laws of Time Management.md"
     }
   ],
   "omittedPaths": [],

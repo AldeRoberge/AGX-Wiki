@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06e5f9012e69b07a",
+        "id": "cd6e471f8169a966",
         "type": "tabs",
         "children": [
           {
-            "id": "8c5fadca7a6cd3bb",
+            "id": "c59cedf6e05208f1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,10 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e56d133e10ad355",
+  "active": "c59cedf6e05208f1",
   "lastOpenFiles": [
-    "index.md",
+    "Video Ideas/index.md",
     "Video Ideas/AI Commit Message.md",
+    "Video Ideas",
+    "Kanban 1.md",
+    "Untitled Kanban.md",
+    "index.md",
     "Video Ideas/index.md",
     "Technical/index.md",
     "Dailies/2025-03-18 - Where do tasks come from.md",
@@ -196,7 +200,6 @@
     "Dailies/2025-03-17 - What is a Task.md",
     "Dailies/2025-03-17 - The Quest for the Perfect Project Management Tool.md",
     "Dailies/2025-03-18 - Tasks Labels.md",
-    "Kanban 1.md",
     "Dailies/Inspirations/index.md",
     "Dailies/Inspirations",
     "Dailies/Loading Screen Taunts.md",
@@ -212,8 +215,6 @@
     "Discord/index.md",
     "Discord/Commands.md",
     "Discord/Elina.md",
-    "Discord/Events.md",
-    "Discord/Linking your Discord account.md",
     "Technical/API/Graveyard/Untitled",
     "Technical/API/Graveyard",
     "Technical/API",
@@ -230,7 +231,6 @@
     "Principles/Core Core Principles/Comparisions/Untitled",
     "Dailies/Principles/Core Principles/Comparisions",
     "Principles/Before Everything",
-    "Dailies/Principles",
-    "Dailies/Principles/Core Principles/Property"
+    "Dailies/Principles"
   ]
 }
