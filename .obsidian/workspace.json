@@ -155,13 +155,23 @@
               "icon": "lucide-list",
               "title": "Outline of index"
             }
+          },
+          {
+            "id": "7e56d133e10ad355",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +184,15 @@
       "copilot:Open Copilot Chat": false,
       "obsidian-importer:Open Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1cfdc065b802870f",
   "lastOpenFiles": [
-    "Video Ideas/index.md",
+    "index.md",
     "Video Ideas/AI Commit Message.md",
+    "Video Ideas/index.md",
     "Technical/index.md",
     "Dailies/2025-03-18 - Where do tasks come from.md",
     "Video Ideas",
@@ -193,7 +205,6 @@
     "Dailies/Inspirations",
     "Dailies/Loading Screen Taunts.md",
     "Dailies/2025-03-17 - Testing Huly, Fibery and Linear.md",
-    "index.md",
     "README.md",
     "Dailies/Origins.md",
     "Dailies/2025-03-14 - Psychological.md",

@@ -6,6 +6,10 @@
     },
     {
       "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "index",
       "path": "Video Ideas/index.md"
     },
     {
@@ -47,10 +51,6 @@
     {
       "basename": "2025-03-17 - Testing Huly, Fibery and Linear",
       "path": "Dailies/2025-03-17 - Testing Huly, Fibery and Linear.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "README",
