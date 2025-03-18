@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-17 - What I need from a Task Management Software",
+      "path": "Dailies/2025-03-17 - What I need from a Task Management Software.md"
+    },
+    {
       "basename": "2025-03-17 - The Quest for the Perfect Project Management Tool",
       "path": "Dailies/2025-03-17 - The Quest for the Perfect Project Management Tool.md"
     },
     {
-      "basename": "Origins",
-      "path": "Dailies/Origins.md"
+      "basename": "2025-03-17 - Testing Huly, Fibery and Linear",
+      "path": "Dailies/2025-03-17 - Testing Huly, Fibery and Linear.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Kanban 1",
+      "path": "Kanban 1.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Loading Screen Taunts",
       "path": "Dailies/Loading Screen Taunts.md"
+    },
+    {
+      "basename": "2025-03-17 - How to name Git commits",
+      "path": "Dailies/2025-03-17 - How to name Git commits.md"
+    },
+    {
+      "basename": "Origins",
+      "path": "Dailies/Origins.md"
     },
     {
       "basename": "2025-03-14 - Psychological",
@@ -35,18 +59,6 @@
     {
       "basename": "2025-02-26 - Ultimate Competitor",
       "path": "Dailies/2025-02-26 - Ultimate Competitor.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Kanban 1",
-      "path": "Kanban 1.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "index",
@@ -187,14 +199,6 @@
     {
       "basename": "2025-03-11",
       "path": "Dailies/2025-03-11.md"
-    },
-    {
-      "basename": "index",
-      "path": "Dailies/index.md"
-    },
-    {
-      "basename": "Component",
-      "path": "Dailies/Principles/Core Principles/Component.md"
     }
   ],
   "omittedPaths": [],
