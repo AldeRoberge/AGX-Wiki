@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Commit Message",
+      "path": "Video Ideas/AI Commit Message.md"
+    },
+    {
+      "basename": "index",
+      "path": "Video Ideas/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Technical/index.md"
+    },
+    {
       "basename": "2025-03-18 - Where do tasks come from",
       "path": "Dailies/2025-03-18 - Where do tasks come from.md"
     },
@@ -121,10 +133,6 @@
       "path": "Technical/API/index.md"
     },
     {
-      "basename": "index",
-      "path": "Technical/index.md"
-    },
-    {
       "basename": "Status",
       "path": "Technical/Status.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2025-03-10 - The 6 laws of Time Management",
       "path": "Dailies/2025-03-10 - The 6 laws of Time Management.md"
-    },
-    {
-      "basename": "Equity",
-      "path": "Dailies/Principles/Core Principles/Comparisions/Equity.md"
-    },
-    {
-      "basename": "index",
-      "path": "Dailies/Principles/Core Principles/Comparisions/index.md"
     }
   ],
   "omittedPaths": [],

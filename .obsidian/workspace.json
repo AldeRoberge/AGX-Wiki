@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-03-18 - Where do tasks come from.md",
+                "file": "Video Ideas/AI Commit Message.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-18 - Where do tasks come from"
+              "title": "AI Commit Message"
             }
           }
         ]
@@ -179,13 +179,17 @@
   },
   "active": "1cfdc065b802870f",
   "lastOpenFiles": [
+    "Video Ideas/index.md",
+    "Video Ideas/AI Commit Message.md",
+    "Technical/index.md",
+    "Dailies/2025-03-18 - Where do tasks come from.md",
+    "Video Ideas",
     "Dailies/2025-03-17 - How to name Git commits.md",
     "Dailies/2025-03-17 - What is a Task.md",
     "Dailies/2025-03-17 - The Quest for the Perfect Project Management Tool.md",
     "Dailies/2025-03-18 - Tasks Labels.md",
     "Kanban 1.md",
     "Dailies/Inspirations/index.md",
-    "Dailies/2025-03-18 - Where do tasks come from.md",
     "Dailies/Inspirations",
     "Dailies/Loading Screen Taunts.md",
     "Dailies/2025-03-17 - Testing Huly, Fibery and Linear.md",
@@ -203,9 +207,6 @@
     "Discord/Elina.md",
     "Discord/Events.md",
     "Discord/Linking your Discord account.md",
-    "Technical/Untitled.md",
-    "Technical/Links.md",
-    "Technical/Architecture.md",
     "Technical/API/Graveyard/Untitled",
     "Technical/API/Graveyard",
     "Technical/API",
@@ -223,7 +224,6 @@
     "Dailies/Principles/Core Principles/Comparisions",
     "Principles/Before Everything",
     "Dailies/Principles",
-    "Dailies/Principles/Core Principles/Property",
-    "Dailies/Principles/Core Principles/State"
+    "Dailies/Principles/Core Principles/Property"
   ]
 }
