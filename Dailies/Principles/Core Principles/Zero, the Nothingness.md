@@ -1,1 +1,0 @@
-Not being is the opposite of [[One, the Beholder|being]], which is the absence of beholding. It can only conceptually exist if [[One, the Beholder]], can actually behold. Both are permanent and infinite. 

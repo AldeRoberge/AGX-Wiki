@@ -1,1 +1,0 @@
-A System is a collection of Components. When a system can act upon other [[Component]], we call it an [[Actor]].

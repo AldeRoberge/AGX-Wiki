@@ -1,1 +1,0 @@
-Observation and measurement is the process by which a component receives and processes information.
