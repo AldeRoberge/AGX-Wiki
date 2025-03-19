@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCircleX",
       "LiHammer",
       "LiBook",
       "LiCross",
-      "LiLink",
-      "LiCircleUserRound"
+      "LiLink"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,6 +51,5 @@
   "Player/Character.md": "LiCircleUserRound",
   "Player/Death.md": "LiCross",
   "Technical/API": "LiHammer",
-  "Dailies": "LiBook",
-  "Dailies/Origins.md": "LiMoreHorizontal"
+  "Dailies": "LiBook"
 }
