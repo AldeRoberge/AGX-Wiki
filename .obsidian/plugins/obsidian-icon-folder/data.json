@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCircleX",
       "LiHammer",
       "LiBook",
       "LiCross",
-      "LiLink"
+      "LiLink",
+      "LiCircleUserRound"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
