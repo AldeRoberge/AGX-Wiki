@@ -6,7 +6,7 @@ tags:
   - settings
   - configuration
 ---
-The `appsettings.json` file stores configuration settings for your ASP.NET Core app (e.g., environment details, URLs, routes) without hardcoding them.
+In modern development, efficiently managing configuration settings is essential. ASP.NET Core's configuration system separates settings from code, simplifying updates without altering the application. The `appsettings.json` file stores these settings, such as environment details and URLs, without hardcoding them, enhancing flexibility and security.
 
 ---
 ### Example `appsettings.json`
@@ -102,7 +102,7 @@ public class AccountController : ControllerBase
 ```
 
 
-### Comparision of IOption, IOptionSnapshot and IOptionMonitor
+#### Comparision of IOption, IOptionSnapshot and IOptionMonitor
 
 | Interface            | Behavior                                                                                                                                                                                                                        | Usage Scenario                                                                   | Scope     |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------- |

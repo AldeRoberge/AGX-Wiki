@@ -1,6 +1,12 @@
 {
-  "encore-settings@@theme-dark": "encore-theme-dark-slate",
+  "encore-settings@@theme-dark": "encore-theme-dark",
   "encore-settings@@colors": "encore-colors-colorful",
   "encore-settings@@theme-light": "encore-theme-light",
-  "encore-settings@@encore-translucency": true
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-translucency-strength": 0.25,
+  "encore-settings@@encore-translucency-background": "encore-bg-chromatic",
+  "things-style@@mobile-black-background": false,
+  "things-style@@active-line": false,
+  "things-style@@fancy-code": true,
+  "things-style@@fancy-highlight": false
 }
