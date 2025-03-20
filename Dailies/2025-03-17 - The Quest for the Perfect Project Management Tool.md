@@ -63,6 +63,14 @@ There are 3 project management software I never heard of, Huly, Fibery, Linear a
 #### Motion
 1. 🔴 Too expensive.
 
+#### appflowy
+1. 🔴 The name is cringe (what's with the -y trend? What's 'appflow' anyway.)
+2. 🟢 Open Source
+
+#### Outline
+1. Needs further testing
+
+
 ---
 ## Main Contenders
 
