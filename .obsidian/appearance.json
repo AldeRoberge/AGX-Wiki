@@ -2,5 +2,8 @@
   "enabledCssSnippets": [
     "centered-images",
     "full-width-tables"
-  ]
+  ],
+  "theme": "obsidian",
+  "accentColor": "#002aff",
+  "cssTheme": "prism-darcula"
 }
