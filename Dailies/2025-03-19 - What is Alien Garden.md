@@ -3,8 +3,34 @@ draft: true
 ---
 What is Alien Garden?  
   
-Alien Garden is a passion project by solo développer Aldé Roberge.  
-  
+Alien Garden is a passion project by solo developer Aldé Roberge.  
+
+
+
+
+### What can you do in Alien Garden?
+
+**Alien Garden** combines elements of farming, roguelike bullet-hell, and action adventure. It’s best described as a action adventure hack and slash bullet-hell twin stick farming roguelike.
+
+- **Grow and Harvest Crops:** Engage in farming activities.
+- **Level Up Abilities:** Enhance both player abilities and pet skills.
+- **Combat:** Battle against minions in dynamic encounters.
+
+
+
+
+
+- **Game Plays Good:**
+    - Simple onboarding with no lengthy sign-up.
+    - Meets and exceeds expectations with innovative gameplay mechanics.
+- **Game Looks Good:**
+    - Pleasing aesthetics created by talented artists.
+- **Game Sounds Good:**
+    - An epic OST with responsibly designed audio effects.
+- **Nostalgic Vibes:**
+    - Cooperative play to defeat tough monsters.
+    - Classic elements like amulets that resurrect and grave looting evoke the good old days.
+
 
 # Origins
 

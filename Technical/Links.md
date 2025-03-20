@@ -12,3 +12,4 @@
 - [Facebook](https://www.facebook.com/AlienGardenOfficial)
 
 
+YouTube, Discord, Reddit, Twitter, Itch.io, and Steam.

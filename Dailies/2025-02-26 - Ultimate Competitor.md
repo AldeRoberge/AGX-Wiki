@@ -1,3 +1,9 @@
+---
+tags:
+  - risks
+---
+
+
 Think about your ultimate competitor. What does he do that annoys you the most? Those are your next goal.  
   
 What features would a competitor annoy me most?  

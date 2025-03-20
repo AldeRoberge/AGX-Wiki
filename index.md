@@ -24,8 +24,6 @@ Alien Garden is a free online, cross-platform fast-paced massively multiplayer o
 
 In Alien Garden: Empire of the Stars, players are transported to a dynamic and ever-evolving universe, where they can explore, forge alliances, and engage in relentless battles to compete for supremacy.
 
-The game is renowned for its voxel-based sandbox environment, where players can build and shape the world to their liking. This element of creativity coexists with the frenetic, hack-and-slash combat, making it a one-of-a-kind gaming experience.
-
 Customize your planet with trees, plants, crops, flowers or structures, and take care of your pets. Discover how the whole planet changes through each season. Day and night cycle that have an effect on the world with natural elements like meteor showers, storms, shooting stars, aurora borealis or hurricane winds. Come home, your garden is waiting to be harvested. Be a driving force in your own narrative. A dot in the night sky, just for you.
 
 If you have requests, suggestions, or bugs to report, visit the [feedback](http://feedback.aliengarden.com/) page. You can also join our [discord community](https://discord.aliengarden.com/).

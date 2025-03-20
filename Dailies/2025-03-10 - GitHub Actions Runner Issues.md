@@ -1,3 +1,9 @@
+---
+tags:
+  - automatisation
+  - ci-cd
+---
+
 I am not getting my GitHub Actions runner, self hosted locally or GitHub hosted, to properly build my game.  
   
 I think it comes down to the fact that the RAM size required to build an executable is above 17Gb, which is the limit for GitHub hosted runners.  
