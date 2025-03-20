@@ -4,7 +4,7 @@
 
 Assume the following settings for a frontend : 
 
-```aspnet
+```csharp
 public class FrontendSettings  
 {  
     public required string Url { get; set; }  
