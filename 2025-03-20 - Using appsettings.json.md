@@ -6,7 +6,6 @@ tags:
   - settings
   - configuration
 ---
-
 The `appsettings.json` file stores configuration settings for your ASP.NET Core app (e.g., environment details, URLs, routes) without hardcoding them.
 
 ---
@@ -27,7 +26,6 @@ The `appsettings.json` file stores configuration settings for your ASP.NET Core 
 ```
 ### Mapping Settings to C# Classes
 
-**GlobalSettings.cs**
 ```csharp
 public class GlobalSettings
 {
@@ -35,7 +33,6 @@ public class GlobalSettings
 }
 ```
 
-**FrontendSettings.cs**
 ```csharp
 public class FrontendSettings  
 {  
@@ -107,15 +104,12 @@ public class AccountController : ControllerBase
 
 ### Comparision of IOption, IOptionSnapshot and IOptionMonitor
 
-- **IOptions** provides configuration values as they were when the app started. Changes to appsettings.json after startup won’t be reflected.
-- **IOptionsSnapshot** provides a snapshot of configuration values on each request, so any changes in appsettings.json are read on every request. Cannot be injected into Singleton services, since it should only be used in services with a Scoped or Transient lifetime.
-- **IOptionsMonitor** monitors for configuration changes after the app starts. It supports change notifications via the OnChange method, updating values as the configuration changes. 
-
-**Usage Scenarios:**
-- Use **IOptions** when you do not expect configuration changes at runtime.
-- Use **IOptionsSnapshot** when you need the most up-to-date configuration on a per-request basis.
-- Use **IOptionsMonitor** when you need to react to configuration changes globally in a singleton service.
-
+| Interface            | Behavior                                                                                                                                                                                                                        | Usage Scenario                                                                   | Scope     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------- |
+| **IOptions**         | Provides configuration values as they were **when the app started**. Changes to appsettings.json after startup won’t be reflected.                                                                                              | When you do not expect configuration changes at runtime.                         | Singleton |
+| **IOptionsSnapshot** | Provides a snapshot of configuration values on each request, so any changes in appsettings.json are **read on every request**. Cannot be injected into Singleton services; should only be used in Scoped or Transient services. | When you need the most up-to-date configuration on a per-request basis.          | Scoped    |
+| **IOptionsMonitor**  | Monitors for configuration changes after the app starts and supports change notifications via the **OnChange** method, updating values as changes occur.                                                                        | When you need to react to configuration changes globally in a Singleton service. | Singleton |
+#### Example of using OptionsMonitor
 
 ```csharp
 	[Route("api/[controller]")]
@@ -138,11 +132,6 @@ public class AccountController : ControllerBase
         }
     }
 ```
-
-
-
-
-
 
 
 Sources : 
