@@ -1,5 +1,9 @@
+---
+tags:
+  - ChatGPT
+  - ai
+---
 
-// Output considers the thinking
 
 |#|Name|Input|Output|
 |---|---|---|---|
@@ -16,3 +20,4 @@
 |11|ChatGPT o1|$15.00|$60.00|
 |12|ChatGPT 4.5|$75.00|$150.00|
 |13|O1 Pro|$150.00|$600.00|
+From https://www.youtube.com/watch?v=Dxq223X0kxM
