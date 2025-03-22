@@ -43,7 +43,6 @@
   "Technical/Notes": "LiPencil",
   "Technical/Links.md": "LiLink",
   "Technical/API": "LiHammer",
-  "Dailies": "LiBook",
   "Triage/2025-03-19 - Notifications.md": "LiBell",
   "Other/Player/Character.md": "LiCircleUserRound",
   "Other/Player/Classes": "LiDna",
@@ -52,5 +51,6 @@
   "Other/Player/Classes/Knight.md": "LiCircleUserRound",
   "Other/Player/Classes/Priest.md": "LiCircleUserRound",
   "Other/Player/Classes/Rogue.md": "LiCircleUserRound",
-  "Other/Player/Classes/Wizard.md": "LiCircleUserRound"
+  "Other/Player/Classes/Wizard.md": "LiCircleUserRound",
+  "Archived Dailies": "LiBook"
 }
