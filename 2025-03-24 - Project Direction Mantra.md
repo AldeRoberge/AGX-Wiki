@@ -1,0 +1,1 @@
+Pour réussir, il faut être **rigoureux**, **organisé** et capable de **tenir la route**. Il est également nécessaire d'adopter une attitude un peu **arrogante** et de l'**assumer** pleinement. La mise en place d'un **plan de développement agressif** et **sérieux**, basé sur des chiffres, constitue la clé de la réussite, tout en sachant **travailler logiquement**.

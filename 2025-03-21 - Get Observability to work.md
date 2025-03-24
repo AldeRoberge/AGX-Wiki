@@ -29,11 +29,9 @@ The only thing missing is that it uses Docker Compose files instead of .NET Aspi
 
 SigNoz has a very promising Cadvisor replacement to monitor performance of infrastructure.
 
-
 ---
 
 For some god forsaken reason, it's working now. I have no clue why. Here's the setup : 
-
 
 - Docker is NOT? running on Windows (nothing in the system tray)
 - Docker IS running on WSL : 
@@ -59,7 +57,7 @@ Notice how signoz is running.
 * SigNoz is running on the admin WSL (Ubuntu)
 * The Infra agent is also running on this WSL instance
 
-
 My programs (that send telemetry data) are running on JetBrains Rider on Windows.
 
 ![[Pasted image 20250321152456.png]]
+
