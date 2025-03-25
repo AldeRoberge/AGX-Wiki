@@ -4,8 +4,6 @@ tags:
   - productivity
   - lifestyle
 ---
-
-
 By Tim Ferriss's "[I suck at efficiency](https://www.facebook.com/TimFerriss/posts/pfbid02mK8rErjH6CChL37gKagVbhaowskNCKD6e23YnCrSWRspADZFMCPfxgQg7D9GdAAQl)" on Facebook
 
 1. Wake up at least one hour before you have to be at a computer screen. Email is the mind killer.

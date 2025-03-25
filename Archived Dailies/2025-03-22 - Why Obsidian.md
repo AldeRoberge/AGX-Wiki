@@ -4,4 +4,4 @@ Paid solutions can be slow, unstable and unsecure. Obsidian is 'just markdown', 
 
 Google Docs was a very promising alternative for note taking, but had some limitations, since it's a proprietary format and can't be exported to a website like Obsidian can, with Quartz.
 
-There was also SiYuan and Outline
+There was also SiYuan and Outline. Prefered to use the widely used Obsidian. If it ever enshitiffies, I'll go look for an alternative.
