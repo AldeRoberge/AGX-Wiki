@@ -1,3 +1,10 @@
+---
+tags:
+  - observability
+  - aspire
+---
+
+
 Notes taken from the video by Anthony Shores “[Observing AI Applications from Dev to Production with .NET Aspire](https://www.youtube.com/watch?v=1h3W10M_VRE)” by the .NET team on YouTube.
 
 ## What Is Observability?

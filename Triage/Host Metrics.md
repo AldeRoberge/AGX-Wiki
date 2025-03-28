@@ -1,1 +1,0 @@
-Signoz Self-Hosted

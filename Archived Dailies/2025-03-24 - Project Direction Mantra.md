@@ -1,0 +1,1 @@
+To succeed, one must be **rigorous**, **organized**, and able to **hold their ground**. It is also necessary to adopt a slightly **arrogant** attitude and **fully own it**. Implementing an **aggressive** and **serious development plan**, based on numbers, is the key to success, while knowing how to **work logically**.

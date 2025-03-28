@@ -59,10 +59,13 @@ wsl --unregister docker-desktop
 
 I ran these commands from both the admin and normal user accounts and restarted Docker Desktop. Remarkably, this cleared the path for Docker to start normally. The act of unregistering the problematic `docker-desktop` distribution appears to have reset Docker’s internal state, allowing it to bypass the issues caused by the conflicting environment setups.
 
-## Placeholder
 
-I will keep this document update if I further encounter problems with Docker.
 
+If the above does not work, we can simply use the following commands to force kill the processes : 
+```bash
+taskkill /F /IM wsl.exe
+taskkill /F /IM vmmem.exe
+```
 
 
 

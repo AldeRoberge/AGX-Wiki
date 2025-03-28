@@ -3,7 +3,7 @@ draft: true
 ---
 
 # AGX-Wiki
- The Wiki for AGX.
+The Wiki for AGX.
 
 Welcome to the AGX-Wiki.
 

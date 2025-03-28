@@ -1,8 +1,0 @@
-
-
-| Link | Role                    | Service                                                                                                |
-| ---- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
-|      | Status                  | [Uptime Kuma](https://github.com/louislam/uptime-kuma)                                                 |
-|      | Feedback and Bug Report | [Canny](https://canny.io/)                                                                             |
-|      | Support                 | [ClickUp Forms](https://help.clickup.com/hc/en-us/articles/6310233090711-Intro-to-Forms-and-Form-view) |
-| Wiki | Wiki                    | [Obsidian](https://obsidian.md/) + [Quartz](https://quartz.jzhao.xyz/)                                 |
