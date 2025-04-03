@@ -1,4 +1,4 @@
-Notes de lectures basé sur une présentation par **Simon Côté-Massicotte**, Conseiller en intégration des technologies éducatives au Service de pédagogie universitaire et de formation à distance (SPUFAD)
+Notes de lectures basé sur une présentation par **Simon Côté-Massicotte**, Conseiller en intégration des technologies éducatives au Service de pédagogie universitaire et de formation à distance (SPUFAD).
 
 Une expérience individuelle et subjective d'un équilibre entre les bénéfices et les inconvénients de la connectivité. (Vanden Abeele, 2021)
 
