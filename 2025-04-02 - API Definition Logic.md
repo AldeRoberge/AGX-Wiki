@@ -1,4 +1,19 @@
 
+| Name   | Permission |
+| ------ | ---------- |
+| User   | Basic      |
+| Admin  | Advanced   |
+| Server | Absolute   |
+
+### How to define permissions?
+
+Claims-Based Authorization gives you more flexibility to authorize based on arbitrary information about the user (e.g., permissions, feature access).
+
+We authenticate users (who are you?), and then authorize them (what are you allowed to do?) by checking their permissions (claims, roles, etc.)
+
+
+
+
 | Path                                                                 | Type           |
 | -------------------------------------------------------------------- | -------------- |
 | Application/Accounts/Account<br>                                     | **Entity**     |
@@ -10,18 +25,22 @@
 | Application/Accounts/Get/ByName/AccountGetByNameResponse<br>         | **Response**   |
 | Application/Accounts/Get/ByName/AccountGetByNameErrors               | **Error List** |
 
+
+
+
 **This architecture provides a well defined contract, with clear logic that is explicit.**
 
-| Path                                              | Type          |                        |
-| ------------------------------------------------- | ------------- | ---------------------- |
-| Entities/Account                                  | **Entity**    |                        |
-| Components/Name/NameComponent                     | **Component** |                        |
-| Components/Name/Update/NameUpdateRequest          | **Request**   |                        |
-| Components/Name/Update/NameUpdateRequestClient    | **Client**    |                        |
-| Components/Name/Update/NameUpdateRequestValidator | **Validator** |                        |
-| Components/Name/Update/NameUpdateRequestHandler   | **Handler**   | Validation, rate limit |
-| Components/Name/Update/NameUpdateSuccess          | **Response**  |                        |
-| Components/Name/Update/NameUpdateError            | **Response**  |                        |
+| Path                                              | Type           |                        |
+| ------------------------------------------------- | -------------- | ---------------------- |
+| Entities/Account                                  | **Entity**     |                        |
+| Components/Name/NameComponent                     | **Component**  |                        |
+| Components/Name/Update/NameUpdateRequest          | **Request**    |                        |
+| Components/Name/Update/NameUpdateRequestClient    | **Client**     |                        |
+| Components/Name/Update/NameUpdateRequestValidator | **Validator**  |                        |
+| Components/Name/Update/NameUpdateController       | **Controller** | Api endpoint           |
+| Components/Name/Update/NameUpdateRequestHandler   | **Handler**    | Validation, rate limit |
+| Components/Name/Update/NameUpdateSuccess          | **Response**   |                        |
+| Components/Name/Update/NameUpdateError            | **Response**   |                        |
 
 ### How would you represent a complex transaction, like an item trade, in these terms?
 
