@@ -21,7 +21,6 @@ aliengarden.com/api/players/{user}/purchase-verify
 aliengarden.com/api/shop
 aliengarden.com/api/market
 
-
 [aliengarden.com/api/servers](http://aliengarden.com/api/servers)  
 [aliengarden.com/api/status](http://aliengarden.com/api/status)  
 

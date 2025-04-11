@@ -10,14 +10,14 @@
 
 Looking at the solutions : 
 
-| 📚 Library                                                                  | ⭐ Stars | 📝 Commits | 📄 License                | ⏳ Expected Longevity      | 🎨 Aesthetic            | 📖 Quality of Documentation |
-| --------------------------------------------------------------------------- | ------- | ---------- | ------------------------- | ------------------------- | ----------------------- | --------------------------- |
-| [Fluent UI](https://github.com/microsoft/fluentui-blazor)                   | 4200    | 3271       | 🟢 Free (MIT)             | 🟢 Used by Microsoft      | 🟢 Looks like Microsoft | 🟢 Awesome                  |
-| [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | 6000    | 2194       | 🟢 Free (MIT)             | 🟢 Very popular           | 🟢 Ant Design           | 🟡  Meh                     |
-| [MudBlazor](https://github.com/MudBlazor/MudBlazor)                         | 8900    | 6612       | 🟢 Free (MIT)             | 🟢 Very popular           | 🔴 Material Design      | 🟢 Awesome                  |
-| [Radzen Blazor](https://github.com/radzenhq/radzen-blazor)                  | 3900    | 4598       | 🟢 Free (MIT)             | 🟢 Popular                | 🔴 Material Design      | 🟡 Okay                     |
-| [Blazorise](https://github.com/Megabit/Blazorise)                           | 3400    | 4805       | 🔴 Paid                   | 🔴 I don't care it's paid | 🟡 Okay                 | 🟡 Okay                     |
-| [Sysinfocus](https://github.com/Sysinfocus/simple-ui/)                      | 100     | 25         | 🔴 Free but closed-source | 🔴 Very unpopular         | 🟢 Shadcn               | 🟡 Okay                     |
+| 📚 Library                                                                  | ⭐ Stars | 📝 Commits | 📄 License                | ⏳ Expected Longevity      | 🎨 Aesthetic             | 📖 Quality of Documentation |     |
+| --------------------------------------------------------------------------- | ------- | ---------- | ------------------------- | ------------------------- | ------------------------ | --------------------------- | --- |
+| [Radzen Blazor](https://github.com/radzenhq/radzen-blazor)                  | 3900    | 4598       | 🟢 Free (MIT)             | 🟢 Popular                | 🟢 Choose your theme     | 🟢 Awesome                  |     |
+| [Fluent UI](https://github.com/microsoft/fluentui-blazor)                   | 4200    | 3271       | 🟢 Free (MIT)             | 🟢 Used by Microsoft      | 🟡  Looks like Microsoft | 🟢 Awesome                  |     |
+| [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | 6000    | 2194       | 🟢 Free (MIT)             | 🟢 Very popular           | 🟢 Ant Design            | 🟡  Meh                     |     |
+| [MudBlazor](https://github.com/MudBlazor/MudBlazor)                         | 8900    | 6612       | 🟢 Free (MIT)             | 🟢 Very popular           | 🔴 Material Design       | 🟢 Awesome                  |     |
+| [Blazorise](https://github.com/Megabit/Blazorise)                           | 3400    | 4805       | 🔴 Paid                   | 🔴 I don't care it's paid | 🟡 Okay                  | 🟡 Okay                     |     |
+| [Sysinfocus](https://github.com/Sysinfocus/simple-ui/)                      | 100     | 25         | 🔴 Free but closed-source | 🔴 Very unpopular         | 🟢 Shadcn                | 🟡 Okay                     |     |
 
 Looking at the discussions : 
 
