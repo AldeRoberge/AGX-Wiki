@@ -1,0 +1,1 @@
+Chrome will continually update its predictors based on your typing and selections. For a greater than 50% confidence level (shown in amber), Chrome proactively preconnects to the domain, but does not prerender the page. **For a greater than 80% confidence level (shown in green), Chrome will prerender the URL**

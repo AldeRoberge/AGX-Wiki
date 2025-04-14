@@ -1,11 +1,3 @@
-| Library               | Website & Repository Links                                                                                              | UI Design / Framework                                                 | Key Features                                                                                                                  | License            |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| **Blazorise**         | [Documentation](https://blazorise.com/docs/) <br> [GitHub](https://github.com/Megabit/Blazorise)                        | Multiple CSS frameworks (Bootstrap, Bulma, Material, AntDesign, etc.) | Flexible and responsive design; rich component collection; supports several CSS frameworks                                    | Proprietary        |
-| **Fluent UI Blazor**  | [GitHub](https://github.com/microsoft/fluentui-blazor)                                                                  | Fluent UI (Microsoft design system)                                   | Integrates Microsoft’s Fluent UI design language; ideal for enterprise applications                                           | MIT License        |
-| **MudBlazor**         | [Overview & Docs](https://mudblazor.com/docs/overview) <br> [GitHub](https://github.com/MudBlazor/MudBlazor)            | Material Design                                                       | Elegant Material Design components; customizable themes; highly active community and regular updates                          | MIT License        |
-| **Ant Design Blazor** | [GitHub](https://github.com/ant-design-blazor/ant-design-blazor)                                                        | Ant Design                                                            | Robust set of components inspired by Ant Design; enterprise-ready; consistency in UI behavior and design                      | MIT License        |
-| **Radzen Blazor**     | [Live Demo & Docs](https://blazor.radzen.com/?theme=material3) <br> [GitHub](https://github.com/radzenhq/radzen-blazor) | Material (with additional theming options)                            | Wide variety of UI components (grids, charts, forms, etc.); productivity tools integrated; dual licensing (free & commercial) | Apache License 2.0 |
-
 
 
 Looking at the solutions : 
@@ -18,6 +10,17 @@ Looking at the solutions :
 | [MudBlazor](https://github.com/MudBlazor/MudBlazor)                         | 8900    | 6612       | 🟢 Free (MIT)             | 🟢 Very popular           | 🔴 Material Design       | 🟢 Awesome                  |     |
 | [Blazorise](https://github.com/Megabit/Blazorise)                           | 3400    | 4805       | 🔴 Paid                   | 🔴 I don't care it's paid | 🟡 Okay                  | 🟡 Okay                     |     |
 | [Sysinfocus](https://github.com/Sysinfocus/simple-ui/)                      | 100     | 25         | 🔴 Free but closed-source | 🔴 Very unpopular         | 🟢 Shadcn                | 🟡 Okay                     |     |
+
+
+| Library               | Website & Repository Links                                                                                              | UI Design / Framework                                                 | Key Features                                                                                                                  | License            |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| **Blazorise**         | [Documentation](https://blazorise.com/docs/) <br> [GitHub](https://github.com/Megabit/Blazorise)                        | Multiple CSS frameworks (Bootstrap, Bulma, Material, AntDesign, etc.) | Flexible and responsive design; rich component collection; supports several CSS frameworks                                    | Proprietary        |
+| **Fluent UI Blazor**  | [GitHub](https://github.com/microsoft/fluentui-blazor)                                                                  | Fluent UI (Microsoft design system)                                   | Integrates Microsoft’s Fluent UI design language; ideal for enterprise applications                                           | MIT License        |
+| **MudBlazor**         | [Overview & Docs](https://mudblazor.com/docs/overview) <br> [GitHub](https://github.com/MudBlazor/MudBlazor)            | Material Design                                                       | Elegant Material Design components; customizable themes; highly active community and regular updates                          | MIT License        |
+| **Ant Design Blazor** | [GitHub](https://github.com/ant-design-blazor/ant-design-blazor)                                                        | Ant Design                                                            | Robust set of components inspired by Ant Design; enterprise-ready; consistency in UI behavior and design                      | MIT License        |
+| **Radzen Blazor**     | [Live Demo & Docs](https://blazor.radzen.com/?theme=material3) <br> [GitHub](https://github.com/radzenhq/radzen-blazor) | Material (with additional theming options)                            | Wide variety of UI components (grids, charts, forms, etc.); productivity tools integrated; dual licensing (free & commercial) | Apache License 2.0 |
+
+
 
 Looking at the discussions : 
 
@@ -168,8 +171,13 @@ Let's take a look at the code.
 
 ### Finalists
 
-| Solution  | Aesthetic                    | Quality of documentation | Quality of code |     |
-| --------- | ---------------------------- | ------------------------ | --------------- | --- |
-| MudBlazor | 🔴 Worst (Google Material)   | 🟢 Awesome               | 🟢 Best         |     |
-| FluentUI  | 🟡 Okay (Microsoft Fluent)   | 🟢 Great                 | 🟢 Awesome      |     |
-| AntDesign | 🟢 Best (Alibaba Ant Design) | 🟡 Okay                  | 🟡 Okay         |     |
+| Solution  | Aesthetic                    | Documentation quality | Code examples quality |
+| --------- | ---------------------------- | --------------------- | --------------------- |
+| MudBlazor | 🔴 Worst (Google Material)   | 🟢 Awesome            | 🟢 Best               |
+| FluentUI  | 🟡 Okay (Microsoft Fluent)   | 🟢 Great              | 🟢 Awesome            |
+| AntDesign | 🟢 Best (Alibaba Ant Design) | 🟡 Okay               | 🟡 Okay               |
+
+
+A user reached out and told me I should look into [Syncfusion](https://blazor.syncfusion.com/demos/chart/multi-colored-line?theme=bootstrap5).
+
+Turns out that it's free if we make below 1 000 000$ in revenue. 
