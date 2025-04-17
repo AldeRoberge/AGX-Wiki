@@ -68,3 +68,17 @@
 | 📎     | Attachment             | `📎 See file`    |
 | 🕒     | Time-sensitive          | `🕒 Deadline:`   |
 | 🚧     | Work in progress        | `🚧 Draft`       |
+
+
+
+
+| Shape         | Symbol | Unicode |
+| ------------- | ------ | ------- |
+| Empty Circle  | ○      | U+25CB  |
+| Full Circle   | ●      | U+25CF  |
+| Medium Circle | ◉      | U+25C9  |
+| Bullet        | •      | U+2022  |
+| Ring          | ◯      | U+25EF  |
+| Hollow Dot    | ⚬      | U+26AC  |
+
+« Guillemets » →
